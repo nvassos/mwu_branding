@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="217.177" height="78.297" viewBox="0 0 217.177 78.297">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-11, .cls-2, .cls-3 {
+        fill: #0d55a1;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 8px;
+        font-family: Mundial-DemiBold, Mundial;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.039em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.04em;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        fill: url(#pattern);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-9 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_593" data-name="Path 593" class="cls-1" d="M21.048-54.851,5.886-61.113V-43.2H17.827v-5.708H24.3V-43.2H36.209V-61.113Z" transform="translate(-5.886 61.113)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-1" width="30.854" height="18.6"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 118 72">
+      <image width="118" height="72" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <clipPath id="clip-path-3">
+      <path id="Path_594" data-name="Path 594" class="cls-1" d="M24.3-38.742v5.724h-6.47v-5.724H5.886v17.921l15.162-6.272,15.162,6.272V-38.742Z" transform="translate(-5.886 38.742)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_76" data-name="Rectangle 76" class="cls-1" width="30.854" height="18.438"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 118 71">
+      <image width="118" height="71" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <path id="Path_615" data-name="Path 615" class="cls-1" d="M2.593,6.5H219.77V-71.8H2.593Z" transform="translate(-2.593 71.797)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5889" data-name="Group 5889" transform="translate(-2.594 128.122)">
+    <g id="Group" transform="translate(50.932 -64.587)">
+      <text id="College_of" data-name="College of" class="cls-2" transform="translate(0 6)"><tspan x="0" y="0">College of</tspan></text>
+      <text id="_Ost" data-name=" Ost" class="cls-3" transform="translate(42.897 6)"><tspan x="0" y="0" xml:space="preserve"> Ost</tspan></text>
+      <text id="eopathic_Medicine" data-name="eopathic Medicine" class="cls-3" transform="translate(60.07 6)"><tspan x="0" y="0">eopathic Medicine</tspan></text>
+    </g>
+    <g id="Group_628" data-name="Group 628" class="cls-4" transform="translate(6.186 -116.47)">
+      <g id="Group_627" data-name="Group 627" transform="translate(-0.222 -0.373)">
+        <g id="Group_626" data-name="Group 626" class="cls-5" transform="translate(0 0)">
+          <rect id="Rectangle_73" data-name="Rectangle 73" class="cls-6" width="30.854" height="18.6"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_631" data-name="Group 631" class="cls-7" transform="translate(6.186 -92.074)">
+      <g id="Group_630" data-name="Group 630" transform="translate(-0.222 -0.261)">
+        <g id="Group_629" data-name="Group 629" class="cls-8" transform="translate(0 0)">
+          <rect id="Rectangle_75" data-name="Rectangle 75" class="cls-9" width="30.854" height="18.438"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_649" data-name="Group 649" class="cls-10" transform="translate(2.594 -128.122)">
+      <g id="Group_632" data-name="Group 632" transform="translate(48.556 14.714)">
+        <path id="Path_595" data-name="Path 595" class="cls-11" d="M.335.651-.494-.07V8.773H-3.7V-7.188h.064L3.851.367l7.49-7.555h.064V8.773H8.2V-.07L7.367.651C6.209,1.917,5.03,3.183,3.851,4.428,2.672,3.183,1.514,1.917.335.651" transform="translate(3.703 7.188)"/>
+      </g>
+      <path id="Path_596" data-name="Path 596" class="cls-11" d="M67.623-42.357H64.347V-53.274h3.276Zm0-10.916-1.638-4.891A1.674,1.674,0,0,1,67.8-56.4a1.68,1.68,0,0,1-1.812,1.747A1.67,1.67,0,0,1,64.173-56.4a1.663,1.663,0,0,1,1.812-1.768" transform="translate(2.982 73.031)"/>
+      <g id="Group_633" data-name="Group 633" transform="translate(73.268 14.953)">
+        <path id="Path_597" data-name="Path 597" class="cls-11" d="M.256.852c0,1.791,1.092,3.013,2.6,3.013A2.712,2.712,0,0,0,5.474.852,2.712,2.712,0,0,0,2.854-2.161c-1.507,0-2.6,1.2-2.6,3.013M8.837,6.31H5.867l-.065-1a2.879,2.879,0,0,1,.044-.72H5.8A3.985,3.985,0,0,1,2.264,6.617c-2.817,0-5.087-2.184-5.087-5.765,0-3.6,2.27-5.765,5-5.765A4.166,4.166,0,0,1,5.6-3.318h.044a4.487,4.487,0,0,1-.065-.9v-5.2H8.837Z" transform="translate(2.823 9.411)"/>
+      </g>
+      <g id="Group_634" data-name="Group 634" transform="translate(86.628 19.758)">
+        <path id="Path_598" data-name="Path 598" class="cls-11" d="M.917.3c.371,1.07.7,2.249.939,3.1.284-.633.7-2.161,1.049-3.122L4.15-3.363H7.555L2.993,7.685H.874L-1.288,1.7-3.428,7.685h-2.14L-10.132-3.363h3.407C-5.939-1.049-5,1.528-4.455,3.4l2.206-6.7h1.92Z" transform="translate(10.132 3.363)"/>
+      </g>
+      <g id="Group_635" data-name="Group 635" transform="translate(105.142 19.452)">
+        <path id="Path_599" data-name="Path 599" class="cls-11" d="M.459.214A2.153,2.153,0,0,0-1.681,2.4H2.446A1.943,1.943,0,0,0,.459.214M5.568,2.747a12.357,12.357,0,0,1-.087,1.332H-1.681C-1.55,5.564-.415,6.415,1.353,6.415A9.108,9.108,0,0,0,5.13,5.608V8.38a9.552,9.552,0,0,1-4.083.786c-3.755,0-6.114-2.423-6.114-5.763A5.539,5.539,0,0,1,.48-2.362,4.835,4.835,0,0,1,5.568,2.747" transform="translate(5.066 2.362)"/>
+      </g>
+      <g id="Group_636" data-name="Group 636" transform="translate(117.695 19.452)">
+        <path id="Path_600" data-name="Path 600" class="cls-11" d="M.288.571C-1.742,0-3.184-.848-3.184-2.967c0-2.031,1.616-3.34,4.149-3.34A9.354,9.354,0,0,1,4.5-5.63v2.8a8.215,8.215,0,0,0-2.773-.808,3.8,3.8,0,0,0-1,.044c-.458.087-.916.305-.916.786,0,.545.545.829,1.7,1.179C4-.936,5.179-.062,5.179,1.9c0,2.1-1.725,3.32-4.5,3.32A9.237,9.237,0,0,1-3.031,4.5V1.641a9.058,9.058,0,0,0,3.669,1c.809,0,1.551-.218,1.551-.874,0-.589-.655-.83-1.9-1.2" transform="translate(3.184 6.307)"/>
+      </g>
+      <g id="Group_637" data-name="Group 637" transform="translate(127.279 16.483)">
+        <path id="Path_601" data-name="Path 601" class="cls-11" d="M.131.272V-3H3.3V.272H6.2V2.826H3.3V7.215c0,1.157.677,1.55,1.4,1.55a4.387,4.387,0,0,0,1.855-.458v2.686a6.762,6.762,0,0,1-2.773.5,3.321,3.321,0,0,1-3.646-3.1C.109,8.045.065,7.673.065,7.281V2.826H-1.442V.272Z" transform="translate(1.442 3.003)"/>
+      </g>
+      <g id="Group_638" data-name="Group 638" transform="translate(136.71 19.452)">
+        <path id="Path_602" data-name="Path 602" class="cls-11" d="M.459.214A2.152,2.152,0,0,0-1.681,2.4H2.445A1.942,1.942,0,0,0,.459.214M5.568,2.747a12.357,12.357,0,0,1-.087,1.332H-1.681C-1.55,5.564-.415,6.415,1.353,6.415A9.108,9.108,0,0,0,5.13,5.608V8.38a9.552,9.552,0,0,1-4.083.786c-3.755,0-6.114-2.423-6.114-5.763A5.539,5.539,0,0,1,.48-2.362,4.835,4.835,0,0,1,5.568,2.747" transform="translate(5.066 2.362)"/>
+      </g>
+      <g id="Group_639" data-name="Group 639" transform="translate(150.027 19.452)">
+        <path id="Path_603" data-name="Path 603" class="cls-11" d="M0,.025H2.971L3.036,1.1a6,6,0,0,0,.022.721A3.808,3.808,0,0,1,6.289-.28a2.933,2.933,0,0,1,.7.065V2.973a1.776,1.776,0,0,0-.72-.131A3.206,3.206,0,0,0,3.253,6.292v4.651H0Z" transform="translate(0 0.28)"/>
+      </g>
+      <g id="Group_640" data-name="Group 640" transform="translate(159.328 19.452)">
+        <path id="Path_604" data-name="Path 604" class="cls-11" d="M.248.025.336,1.27a2.435,2.435,0,0,1-.087.764H.292A4.337,4.337,0,0,1,4.048-.28c2.468,0,3.8,1.506,3.8,4.388v6.834H4.571V4.655c0-1.07-.305-1.965-1.484-1.965A2.576,2.576,0,0,0,.532,5.505v5.437H-2.743V.025Z" transform="translate(2.743 0.28)"/>
+      </g>
+      <g id="Group_641" data-name="Group 641" transform="translate(48.336 36.013)">
+        <path id="Path_605" data-name="Path 605" class="cls-11" d="M1.091.83c0,3.669-2.424,6.026-6.573,6.026-4.128,0-6.573-2.358-6.573-6.026v-10h3.363V.5A2.959,2.959,0,0,0-5.481,3.778,2.949,2.949,0,0,0-2.272.5V-9.17H1.091Z" transform="translate(12.054 9.17)"/>
+      </g>
+      <g id="Group_642" data-name="Group 642" transform="translate(64.82 40.511)">
+        <path id="Path_606" data-name="Path 606" class="cls-11" d="M.248.025.336,1.27a2.435,2.435,0,0,1-.087.764H.292A4.337,4.337,0,0,1,4.048-.28c2.468,0,3.8,1.506,3.8,4.388v6.834H4.571V4.655c0-1.07-.305-1.965-1.484-1.965A2.576,2.576,0,0,0,.532,5.505v5.437H-2.743V.025Z" transform="translate(2.743 0.28)"/>
+      </g>
+      <path id="Path_607" data-name="Path 607" class="cls-11" d="M78.033-23.046H74.757V-33.963h3.276Zm0-10.917M76.4-38.854a1.674,1.674,0,0,1,1.812,1.769A1.679,1.679,0,0,1,76.4-35.339a1.668,1.668,0,0,1-1.811-1.746A1.663,1.663,0,0,1,76.4-38.854" transform="translate(3.925 74.779)"/>
+      <g id="Group_643" data-name="Group 643" transform="translate(83.617 40.816)">
+        <path id="Path_608" data-name="Path 608" class="cls-11" d="M.973,0-3.852,11.048H-5.9L-10.752,0h3.406C-6.473,2.227-5.425,4.76-4.9,6.573c.24-.59.7-2.141,1.092-3.123L-2.433,0Z" transform="translate(10.752)"/>
+      </g>
+      <g id="Group_644" data-name="Group 644" transform="translate(96.147 40.511)">
+        <path id="Path_609" data-name="Path 609" class="cls-11" d="M.459.214A2.153,2.153,0,0,0-1.681,2.4H2.446A1.943,1.943,0,0,0,.459.214M5.568,2.747a12.357,12.357,0,0,1-.087,1.332H-1.681C-1.55,5.564-.415,6.415,1.354,6.415a9.112,9.112,0,0,0,3.778-.807V8.38a9.556,9.556,0,0,1-4.083.786c-3.756,0-6.115-2.423-6.115-5.765A5.538,5.538,0,0,1,.48-2.362,4.835,4.835,0,0,1,5.568,2.747" transform="translate(5.066 2.362)"/>
+      </g>
+      <g id="Group_645" data-name="Group 645" transform="translate(109.464 40.511)">
+        <path id="Path_610" data-name="Path 610" class="cls-11" d="M0,.025H2.971L3.035,1.1a6,6,0,0,0,.022.721A3.812,3.812,0,0,1,6.289-.28a2.941,2.941,0,0,1,.7.065V2.973a1.776,1.776,0,0,0-.72-.131A3.206,3.206,0,0,0,3.253,6.292v4.651H0Z" transform="translate(0 0.28)"/>
+      </g>
+      <g id="Group_646" data-name="Group 646" transform="translate(118.044 40.51)">
+        <path id="Path_611" data-name="Path 611" class="cls-11" d="M.288.571C-1.742,0-3.184-.848-3.184-2.967c0-2.031,1.616-3.34,4.149-3.34A9.36,9.36,0,0,1,4.5-5.63v2.8a8.221,8.221,0,0,0-2.774-.808,3.788,3.788,0,0,0-1,.044c-.459.087-.917.305-.917.786,0,.545.545.829,1.7,1.179C4-.936,5.179-.062,5.179,1.9c0,2.1-1.725,3.32-4.5,3.32A9.231,9.231,0,0,1-3.03,4.5V1.641a9.053,9.053,0,0,0,3.669,1c.808,0,1.551-.218,1.551-.874,0-.589-.655-.83-1.9-1.2" transform="translate(3.184 6.307)"/>
+      </g>
+      <path id="Path_612" data-name="Path 612" class="cls-11" d="M124.217-23.046h-3.276V-33.963h3.276Zm0-10.917-1.638-4.891a1.673,1.673,0,0,1,1.811,1.769,1.678,1.678,0,0,1-1.811,1.746,1.668,1.668,0,0,1-1.812-1.746,1.663,1.663,0,0,1,1.812-1.769" transform="translate(8.106 74.779)"/>
+      <g id="Group_647" data-name="Group 647" transform="translate(134.395 37.541)">
+        <path id="Path_613" data-name="Path 613" class="cls-11" d="M.131.272V-3H3.3V.272H6.2V2.826H3.3V7.215c0,1.157.677,1.55,1.4,1.55a4.383,4.383,0,0,0,1.855-.458v2.686a6.756,6.756,0,0,1-2.772.5,3.321,3.321,0,0,1-3.647-3.1C.109,8.045.065,7.673.065,7.281V2.826H-1.442V.272Z" transform="translate(1.442 3.003)"/>
+      </g>
+      <g id="Group_648" data-name="Group 648" transform="translate(143.324 40.816)">
+        <path id="Path_614" data-name="Path 614" class="cls-11" d="M.036,1.071a3.509,3.509,0,0,0,1.288.218C2.766,1.289,3.509.329,4.1-.916L-.4-11.833H3.18l1.266,3.8c.459,1.332.917,2.686,1.288,4.061.285-.612,1.005-3.253,1.311-4.061l1.266-3.8h3.538L7.612-1C6.368,2.228,4.73,3.845,2.438,4.106a5.864,5.864,0,0,1-1.375.022,3.837,3.837,0,0,1-1.026-.2Z" transform="translate(0.401 11.833)"/>
+      </g>
+    </g>
+  </g>
+</svg>

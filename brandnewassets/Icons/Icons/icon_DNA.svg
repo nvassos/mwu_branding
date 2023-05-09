@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3454" data-name="Path 3454" d="M100.127-113.2h11.914v-9.21H100.127Z" transform="translate(-100.127 122.413)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.379" y1="0.678" x2="0.404" y2="0.678" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3448" data-name="Path 3448" d="M16.355.652H73.918V-56.911H16.355Z" transform="translate(-16.355 56.911)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7187" data-name="Group 7187" transform="translate(-954.237 -1579.059)">
+    <g id="Group_5752" data-name="Group 5752" transform="translate(938.693 1591.723)">
+      <g id="Group_5380" data-name="Group 5380" transform="translate(44.317 10.825)" clip-path="url(#clip-path)">
+        <g id="Group_5379" data-name="Group 5379" transform="translate(-180.112 -450.19)">
+          <path id="Path_3453" data-name="Path 3453" d="M-100.127-252.827H375.7V417.564H-100.127Z" transform="translate(100.127 252.827)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_5381" data-name="Group 5381" transform="translate(37.221 0)">
+        <path id="Path_3455" data-name="Path 3455" d="M5.113,0-6.4,10.361V21.874L5.113,32.235M-6.4,0,5.113,10.361V21.874L-6.4,32.235m0-20.723H5.113M-6.4,16.118H5.113M-6.4,20.723H5.113" transform="translate(6.4)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

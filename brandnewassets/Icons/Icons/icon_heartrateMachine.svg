@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3448" data-name="Path 3448" d="M16.355.652H73.918V-56.911H16.355Z" transform="translate(-16.355 56.911)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_3472" data-name="Path 3472" d="M100.67-22.748h20.523V-43.471H100.67Z" transform="translate(-100.67 43.471)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.381" y1="0.899" x2="0.424" y2="0.899" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_7185" data-name="Group 7185" transform="translate(-869.637 -1688.417)">
+    <g id="Group_5757" data-name="Group 5757" transform="translate(851.915 1705.766)">
+      <g id="Group_5397" data-name="Group 5397" transform="translate(46.633 6.908)" clip-path="url(#clip-path-2)">
+        <g id="Group_5396" data-name="Group 5396" transform="translate(-181.089 -592.194)">
+          <path id="Path_3471" data-name="Path 3471" d="M-100.67-334.969H375.154V335.422H-100.67Z" transform="translate(100.67 334.969)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Path_3473" data-name="Path 3473" d="M123.625-24.286H91.39V-47.311h32.235ZM101.751-47.311v23.025M96-41.555h1.151M96-35.8h1.151M96-30.042h1.151m9.21-5.756h2.3l2.3,5.756,3.454-12.664,2.3,10.361,1.151-3.454h1.151" transform="translate(-65.538 47.311)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="163.776" height="50" viewBox="0 0 163.776 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_503" data-name="Path 503" d="M369.125-16.694H503.559V-54.931H369.125Z" transform="translate(-369.125 54.931)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5882" data-name="Group 5882" transform="translate(-1036.8 -3422.214)">
+    <path id="Path_3721" data-name="Path 3721" d="M354.55-72.316H518.326v-50H354.55Z" transform="translate(682.25 3544.53)" fill="#0d55a0"/>
+    <g id="Group_523" data-name="Group 523" transform="translate(1062.178 3434.962)">
+      <path id="Path_498" data-name="Path 498" d="M.123.051-8.56-3.534V6.726h6.829V3.45H1.978V6.726H8.807V-3.534Z" transform="translate(8.56 3.534)" fill="#cbaf8b"/>
+    </g>
+    <g id="Group_524" data-name="Group 524" transform="translate(1062.178 3448.714)">
+      <path id="Path_499" data-name="Path 499" d="M.15,0V3.276H-3.558V0h-6.83V10.259L-1.7,6.675l8.683,3.584V0Z" transform="translate(10.388)" fill="#cbaf8b"/>
+    </g>
+    <g id="Group_528" data-name="Group 528" transform="translate(1051.473 3428.531)" clip-path="url(#clip-path)">
+      <g id="Group_525" data-name="Group 525" transform="translate(38.464 6.941)">
+        <path id="Path_500" data-name="Path 500" d="M.086-.022-1.159-1.085V11.966H-5.973V-11.591h.1L5.36-.441l11.234-11.15h.1V11.966H11.878V-1.085L10.633-.022C8.9,1.847,7.128,3.716,5.36,5.553,3.591,3.716,1.855,1.847.086-.022" transform="translate(5.973 11.591)" fill="#fff"/>
+      </g>
+      <g id="Group_526" data-name="Group 526" transform="translate(64.99 7.295)">
+        <path id="Path_501" data-name="Path 501" d="M.08,0l3.21,7.9c.786,1.933,1.474,3.77,1.966,5.253.359-.838,1.08-2.643,1.7-4.061l1.31-2.932L10.986.162h.2c2,4.415,4.487,9.7,5.7,12.987.85-2.063,3.831-9.6,5.207-13.149h5.633L17.143,23.558h-.228L12.3,13.181c-.426-.9-.852-1.869-1.211-2.772-.361.9-.787,1.869-1.18,2.772L5.255,23.558h-.23L-5.521,0Z" transform="translate(5.521)" fill="#fff"/>
+      </g>
+      <g id="Group_527" data-name="Group 527" transform="translate(102.387 7.295)">
+        <path id="Path_502" data-name="Path 502" d="M.28-.028c0,5.414-3.636,8.894-9.858,8.894-6.191,0-9.859-3.48-9.859-8.894v-14.76h5.045V-.511c0,3.029,1.735,4.833,4.814,4.833,3.111,0,4.814-1.8,4.814-4.833V-14.788H.28Z" transform="translate(19.437 14.788)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

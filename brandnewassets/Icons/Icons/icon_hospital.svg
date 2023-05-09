@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3475" data-name="Path 3475" d="M163.2-107.2h23.025v-24.178H163.2Z" transform="translate(-163.203 131.374)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.617" y1="0.666" x2="0.665" y2="0.666" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3448" data-name="Path 3448" d="M16.355.652H73.918V-56.911H16.355Z" transform="translate(-16.355 56.911)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7189" data-name="Group 7189" transform="translate(-1040.901 -1579.059)">
+    <g id="Group_5753" data-name="Group 5753" transform="translate(1025.037 1585.493)">
+      <g id="Group_5399" data-name="Group 5399" transform="translate(35.94 0)" clip-path="url(#clip-path)">
+        <g id="Group_5398" data-name="Group 5398" transform="translate(-293.576 -434.07)">
+          <path id="Path_3474" data-name="Path 3474" d="M-163.2-248.027H312.62V422.364H-163.2Z" transform="translate(163.203 248.027)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Path_3476" data-name="Path 3476" d="M183.668-96.578H162.946v-32.235h20.723Zm-23.025,0h25.328m-9.21,0h-6.908v-9.21h6.908ZM171-121.905h4.605m-2.3-2.3v4.605m-5.756,3.454h2.3m6.908,0h2.3m-11.513,4.605h2.3m6.908,0h2.3" transform="translate(-130.316 135.046)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

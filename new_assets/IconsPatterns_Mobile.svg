@@ -1,0 +1,726 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348" height="969.122" viewBox="0 0 348 969.122">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3430" data-name="Path 3430" d="M19.582-348.5H44.151V-361.16H19.582Z" transform="translate(-19.582 361.16)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.074" y1="0.04" x2="0.126" y2="0.04" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3432" data-name="Path 3432" d="M17.016-315.117H74.579V-372.68H17.016Z" transform="translate(-17.016 372.68)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_3457" data-name="Path 3457" d="M21.033-274.621a11.371,11.371,0,0,0,10.656,12.043h0A11.37,11.37,0,0,0,43.73-273.236h0a11.368,11.368,0,0,0-10.656-12.041h0c-.236-.016-.469-.022-.7-.022h0a11.371,11.371,0,0,0-11.34,10.678" transform="translate(-21.011 285.299)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.079" y1="0.251" x2="0.127" y2="0.251" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-4">
+      <path id="Path_3459" data-name="Path 3459" d="M16.355-236.175H73.918v-57.563H16.355Z" transform="translate(-16.355 293.738)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_3482" data-name="Path 3482" d="M38.766-200.075a2.568,2.568,0,0,0-2.571,2.569h0v18.154H46.556V-193.4a6.672,6.672,0,0,0-6.674-6.672H38.766Z" transform="translate(-36.195 200.075)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.137" y1="0.479" x2="0.159" y2="0.479" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-6">
+      <path id="Path_3484" data-name="Path 3484" d="M32.629-200.075a6.673,6.673,0,0,0-6.674,6.672h0v14.051H36.316v-18.154a2.569,2.569,0,0,0-2.571-2.569H32.629Z" transform="translate(-25.955 200.075)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.098" y1="0.479" x2="0.12" y2="0.479" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-7">
+      <path id="Path_3486" data-name="Path 3486" d="M16.355-157.232H73.918v-57.563H16.355Z" transform="translate(-16.355 214.795)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Path_3450" data-name="Path 3450" d="M29.952-120.757a11.026,11.026,0,0,0,10.174,11.818h0A11.027,11.027,0,0,0,51.66-119.433h0a11.029,11.029,0,0,0-10.172-11.818h0c-.221-.014-.437-.02-.655-.02h0a11.052,11.052,0,0,0-10.881,10.514" transform="translate(-29.93 131.271)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.114" y1="0.336" x2="0.16" y2="0.336" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-9">
+      <path id="Path_3452" data-name="Path 3452" d="M16.355-78.292H73.918v-57.561H16.355Z" transform="translate(-16.355 135.853)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Path_3446" data-name="Path 3446" d="M21.97-33.352A14.667,14.667,0,0,0,35.715-17.819h0A14.666,14.666,0,0,0,51.246-31.564h0A14.666,14.666,0,0,0,37.5-47.1h0c-.3-.018-.608-.027-.908-.027h0A14.667,14.667,0,0,0,21.97-33.352" transform="translate(-21.943 47.124)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-6" x1="0.083" y1="0.895" x2="0.145" y2="0.895" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-11">
+      <path id="Path_3448" data-name="Path 3448" d="M16.355.652H73.918V-56.911H16.355Z" transform="translate(-16.355 56.911)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <path id="Path_3454" data-name="Path 3454" d="M100.127-113.2h11.914v-9.21H100.127Z" transform="translate(-100.127 122.413)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="0.379" y1="0.678" x2="0.404" y2="0.678" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-13">
+      <path id="Path_3475" data-name="Path 3475" d="M163.2-107.2h23.025v-24.178H163.2Z" transform="translate(-163.203 131.374)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-8" x1="0.617" y1="0.666" x2="0.665" y2="0.666" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-14">
+      <path id="Path_3495" data-name="Path 3495" d="M171.523-35.138a6.907,6.907,0,0,0,6.908,6.906h0a6.905,6.905,0,0,0,6.908-6.906h0a6.907,6.907,0,0,0-6.908-6.908h0a6.908,6.908,0,0,0-6.908,6.908" transform="translate(-171.523 42.046)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-9" x1="0.648" y1="0.897" x2="0.677" y2="0.897" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-15">
+      <path id="Path_3497" data-name="Path 3497" d="M151.683.652h57.563V-56.911H151.683Z" transform="translate(-151.683 56.911)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Path_3472" data-name="Path 3472" d="M100.67-22.748h20.523V-43.471H100.67Z" transform="translate(-100.67 43.471)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-10" x1="0.381" y1="0.899" x2="0.424" y2="0.899" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-17">
+      <path id="Path_3461" data-name="Path 3461" d="M96.718-274.142a7.913,7.913,0,0,0,7.49,8.312h0a7.913,7.913,0,0,0,8.446-7.339h0a7.912,7.912,0,0,0-7.49-8.312h0c-.169-.011-.336-.016-.5-.016h0a7.906,7.906,0,0,0-7.945,7.355" transform="translate(-96.704 281.497)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-11" x1="0.366" y1="0.743" x2="0.4" y2="0.743" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-18">
+      <path id="Path_3463" data-name="Path 3463" d="M84.35-236.175h57.563v-57.563H84.35Z" transform="translate(-84.35 293.738)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <path id="Path_3465" data-name="Path 3465" d="M160.644-263.791H184.82V-270.7H160.644Z" transform="translate(-160.644 270.697)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-12" x1="0.607" y1="0.279" x2="0.658" y2="0.279" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-20">
+      <path id="Path_3488" data-name="Path 3488" d="M162.883-183.261h27.056v-19.375H162.883Z" transform="translate(-162.883 202.636)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-13" x1="0.616" y1="0.471" x2="0.673" y2="0.471" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-21">
+      <path id="Path_3499" data-name="Path 3499" d="M96.324-201.211a8.389,8.389,0,0,0,8.39,8.39h0a8.389,8.389,0,0,0,8.39-8.39h0a8.389,8.389,0,0,0-8.39-8.39h0a8.389,8.389,0,0,0-8.39,8.39" transform="translate(-96.324 209.601)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-14" x1="0.364" y1="0.45" x2="0.399" y2="0.45" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-22">
+      <path id="Path_3501" data-name="Path 3501" d="M84.35-157.232h57.563v-57.563H84.35Z" transform="translate(-84.35 214.795)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Path_3434" data-name="Path 3434" d="M95.935-349.7l11.4,11.4,11.4-11.4-11.4-11.4Z" transform="translate(-95.935 361.095)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-15" x1="0.363" y1="0.048" x2="0.411" y2="0.048" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-24">
+      <path id="Path_3436" data-name="Path 3436" d="M84.35-315.117h57.563V-372.68H84.35Z" transform="translate(-84.35 372.68)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Path_3438" data-name="Path 3438" d="M161.193-352.955a11.156,11.156,0,0,0,0,15.779h0a11.159,11.159,0,0,0,15.779,0h0l.487-.489a11.156,11.156,0,0,0,0-15.779h0l-7.89-7.89Z" transform="translate(-157.924 361.334)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-16" x1="0.597" y1="0.051" x2="0.645" y2="0.051" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-26">
+      <path id="Path_3440" data-name="Path 3440" d="M151.683-315.117h57.563V-372.68H151.683Z" transform="translate(-151.683 372.68)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path id="Path_3602" data-name="Path 3602" d="M0,17.593H341V-88.823H0Z" transform="translate(0 88.823)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-28">
+      <path id="Path_3603" data-name="Path 3603" d="M0,15.4H320.229V-87.383H0Z" transform="translate(0 87.383)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <rect id="Rectangle_208" data-name="Rectangle 208" width="323.433" height="105.99" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <path id="Path_3604" data-name="Path 3604" d="M0,19.835H341V-87.384H0Z" transform="translate(0 87.384)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-31">
+      <path id="Path_3605" data-name="Path 3605" d="M0,13.472H334.03v-95.1H0Z" transform="translate(0 81.625)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-32">
+      <rect id="Rectangle_210" data-name="Rectangle 210" width="335.578" height="98.3" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1022 300">
+      <image width="1022" height="300" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <clipPath id="clip-path-33">
+      <path id="Path_3606" data-name="Path 3606" d="M0,18.836H348V-81.626H0Z" transform="translate(0 81.626)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-34">
+      <path id="Path_3442" data-name="Path 3442" d="M232.2-360.672a7.087,7.087,0,0,0,7.086,7.087h0a7.087,7.087,0,0,0,7.087-7.087h0a7.086,7.086,0,0,0-7.087-7.084h0a7.085,7.085,0,0,0-7.086,7.084" transform="translate(-232.198 367.756)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-17" x1="0.878" y1="0.024" x2="0.908" y2="0.024" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-35">
+      <path id="Path_3444" data-name="Path 3444" d="M219.017-315.117h57.561V-372.68H219.017Z" transform="translate(-219.017 372.68)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-36">
+      <path id="Path_3478" data-name="Path 3478" d="M218.082-106.954A10.557,10.557,0,0,0,228.639-96.4h0a10.558,10.558,0,0,0,10.556-10.557h0a10.558,10.558,0,0,0-10.556-10.557h0a10.557,10.557,0,0,0-10.557,10.557" transform="translate(-218.082 117.511)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-18" x1="0.824" y1="0.7" x2="0.869" y2="0.7" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-37">
+      <path id="Path_3480" data-name="Path 3480" d="M216.162-78.292h57.561v-57.561H216.162Z" transform="translate(-216.162 135.853)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-38">
+      <path id="Path_3468" data-name="Path 3468" d="M231.976-271.047a10.3,10.3,0,0,0,10.3,10.3h0a10.3,10.3,0,0,0,10.3-10.3h0a10.3,10.3,0,0,0-10.3-10.3h0a10.3,10.3,0,0,0-10.3,10.3" transform="translate(-231.976 281.344)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-19" x1="0.877" y1="0.26" x2="0.92" y2="0.26" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-39">
+      <path id="Path_3470" data-name="Path 3470" d="M216.162-235.176h57.561v-57.561H216.162Z" transform="translate(-216.162 292.737)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-40">
+      <path id="Path_3491" data-name="Path 3491" d="M228.1-184.208h26.13v-6.908H228.1Z" transform="translate(-228.099 191.116)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-20" x1="0.862" y1="0.492" x2="0.917" y2="0.492" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-41">
+      <path id="Path_3493" data-name="Path 3493" d="M216.162-157.232h57.561v-57.563H216.162Z" transform="translate(-216.162 214.795)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-42">
+      <path id="Path_3503" data-name="Path 3503" d="M220-31.76a9.757,9.757,0,0,0,9.757,9.755h0a9.756,9.756,0,0,0,9.757-9.755h0a9.756,9.756,0,0,0-9.757-9.759h0A9.757,9.757,0,0,0,220-31.76" transform="translate(-220.001 41.519)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-21" x1="0.832" y1="0.903" x2="0.873" y2="0.903" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path-43">
+      <path id="Path_3505" data-name="Path 3505" d="M216.162.652h57.561V-56.911H216.162Z" transform="translate(-216.162 56.911)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5928" data-name="Group 5928" transform="translate(-15.5 -1461.34)">
+    <g id="Group_5427" data-name="Group 5427" transform="translate(48.974 1673.903)">
+      <g id="Group" transform="translate(213.846 220.88)">
+        <text id="_" data-name=" " transform="translate(0 4)" fill="#c6c9ce" font-size="6" font-family="Mundial-Regular, Mundial"><tspan x="0" y="0"> </tspan></text>
+      </g>
+    </g>
+    <g id="Group_5759" data-name="Group 5759" transform="translate(14.396 1461.34)">
+      <g id="Group_5356" data-name="Group 5356" transform="translate(19.006 20.723)" clip-path="url(#clip-path)">
+        <g id="Group_5355" data-name="Group 5355" transform="translate(-35.225 -20.723)">
+          <path id="Path_3429" data-name="Path 3429" d="M-19.582-15.04H456.241V655.351H-19.582Z" transform="translate(19.582 15.04)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_5358" data-name="Group 5358" transform="translate(14.39 0)" clip-path="url(#clip-path-2)">
+        <g id="Group_5357" data-name="Group 5357" transform="translate(12.665 16.118)">
+          <path id="Path_3431" data-name="Path 3431" d="M2.045,9.2H-2.56V-8.066H23.919l5.756,9.21V9.2H25.07M18.163-8.066v9.21H29.675M4.348-1.159H8.953m-2.3-2.3V1.144M8.953,9.2A3.454,3.454,0,1,1,5.5,5.749,3.455,3.455,0,0,1,8.953,9.2Zm16.118,0a3.454,3.454,0,1,1-3.454-3.454A3.455,3.455,0,0,1,25.07,9.2ZM8.953,9.2h9.21M14.709-8.066H10.1V-11.52h4.605Z" transform="translate(2.56 11.52)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3747" data-name="Path 3747" d="M18.333,7l.493-1.3H21.9L22.391,7H23.8L21.116.369H19.6L16.927,7ZM19.2,4.651l1.167-2.905,1.157,2.905ZM25.78,7V4.378a.969.969,0,0,1,1.025-1,.906.906,0,0,1,.933,1V7h1.255V4.349a.961.961,0,0,1,1.03-.972.905.905,0,0,1,.938,1V7h1.255V4.056a1.735,1.735,0,0,0-1.841-1.841,1.933,1.933,0,0,0-1.626.83,1.681,1.681,0,0,0-1.572-.83,1.773,1.773,0,0,0-1.436.64l-.024-.542H24.525V7ZM34.8,7l.024-.5a1.957,1.957,0,0,0,1.523.6,2.279,2.279,0,0,0,2.271-2.446,2.265,2.265,0,0,0-2.271-2.437,1.84,1.84,0,0,0-1.543.664V.125h-1.23V7Zm.02-2.354a1.257,1.257,0,0,1,1.274-1.309,1.241,1.241,0,0,1,1.27,1.309,1.273,1.273,0,1,1-2.544,0Zm6.665,2.476a1.779,1.779,0,0,0,1.455-.64L42.962,7h1.191V2.313H42.9V4.964a.975.975,0,0,1-1.05,1,.918.918,0,0,1-.967-1V2.313h-1.25V5.286A1.738,1.738,0,0,0,41.483,7.122Zm5.342-7h-1.25V7h1.25ZM49.705,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S48.641,7.1,49.705,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S49.505,4.993,50.076,4.993ZM54.832,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H53.582V7Zm6.743.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811A1.251,1.251,0,0,1,60.35,4.671a1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,61.6,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,61.575,7.1Zm5.278,0a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532A2.164,2.164,0,0,0,66.8,2.215a2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,66.854,7.1Zm-1.2-2.91A1.1,1.1,0,0,1,66.81,3.27a1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 63.965)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5765" data-name="Group 5765" transform="translate(-8.604 -67.438)">
+      <g id="Group_5383" data-name="Group 5383" transform="translate(48.973 1643.903)" clip-path="url(#clip-path-3)">
+        <g id="Group_5382" data-name="Group 5382" transform="translate(-37.795 -157.184)">
+          <path id="Path_3456" data-name="Path 3456" d="M-21.011-93.7H454.813V576.689H-21.011Z" transform="translate(21.011 93.702)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Group_5742" data-name="Group 5742" transform="translate(22 1627.6)">
+        <g id="Group_5385" data-name="Group 5385" transform="translate(20.933 0)" clip-path="url(#clip-path-4)">
+          <g id="Group_5384" data-name="Group 5384" transform="translate(17.269 12.665)">
+            <path id="Path_3458" data-name="Path 3458" d="M0,12.158V-5.434A9.786,9.786,0,0,1,9.786-15.22a9.786,9.786,0,0,1,9.786,9.786v.505A15.988,15.988,0,0,1,11.514,8.955l0,0L9.32,14.07A4.856,4.856,0,0,1,0,12.158ZM14.966-8.312a5.819,5.819,0,0,0-5.756-2.3A5.762,5.762,0,0,0,5.832-8.606,5.808,5.808,0,0,0,4.605-4.9V-.254m0-1.151H7.483a2.878,2.878,0,1,1,0,5.756H4.605V7.805" transform="translate(0 15.22)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3740" data-name="Path 3740" d="M36.368,7h4.79V5.862H37.686V4.183h2.949V3.04H37.686V1.512h3.4V.369H36.368Zm7.354.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107A3.07,3.07,0,0,0,44,4.158c-1.245,0-2.056.615-2.056,1.5S42.657,7.1,43.721,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S43.521,4.993,44.093,4.993ZM47.6,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H47.6Z" transform="translate(0 65.337)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5766" data-name="Group 5766" transform="translate(-13 -133.164)">
+      <g id="Group_5405" data-name="Group 5405" transform="translate(76.287 1821.474)" clip-path="url(#clip-path-5)">
+        <g id="Group_5404" data-name="Group 5404" transform="translate(-65.109 -310.488)">
+          <path id="Path_3481" data-name="Path 3481" d="M-36.195-178.364H439.629V492.027H-36.195Z" transform="translate(36.195 178.364)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <g id="Group_5407" data-name="Group 5407" transform="translate(57.867 1821.474)" clip-path="url(#clip-path-6)">
+        <g id="Group_5406" data-name="Group 5406" transform="translate(-46.689 -310.488)">
+          <path id="Path_3483" data-name="Path 3483" d="M-25.955-178.364H449.868V492.027H-25.955Z" transform="translate(25.955 178.364)" fill="url(#linear-gradient-4)"/>
+        </g>
+      </g>
+      <g id="Group_5747" data-name="Group 5747" transform="translate(27.397 1793.521)">
+        <g id="Group_5409" data-name="Group 5409" transform="translate(13.201 0)" clip-path="url(#clip-path-7)">
+          <g id="Group_5408" data-name="Group 5408" transform="translate(14.966 12.663)">
+            <path id="Path_3485" data-name="Path 3485" d="M4.6,14.315H-5.76V.284A6.907,6.907,0,0,1-.351-6.458L.4-6.625A3.454,3.454,0,0,1,4.6-3.252Zm6.908,0H21.87V.284a6.907,6.907,0,0,0-5.409-6.742l-.748-.167a3.454,3.454,0,0,0-4.2,3.373ZM8.055-17.92v8.059L1.148-1.8V2.8M8.055-9.861,14.963-1.8V2.8M1.148-1.8h-2.3m16.118,0h2.3M-5.76,9.71l3.454-1.151m20.723,0L21.87,9.71" transform="translate(5.76 17.92)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3739" data-name="Path 3739" d="M34.71,5.862H31.141V.369H29.823V7H34.71Zm2.573,1.26a1.779,1.779,0,0,0,1.455-.64L38.763,7h1.191V2.313H38.7V4.964a.975.975,0,0,1-1.05,1,.918.918,0,0,1-.967-1V2.313h-1.25V5.286A1.738,1.738,0,0,0,37.283,7.122ZM42.625,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H41.375V7Zm4.3-2.349A2.279,2.279,0,0,0,49.2,7.1a1.878,1.878,0,0,0,1.523-.625v.161a1.307,1.307,0,0,1-1.47,1.294A2.09,2.09,0,0,1,47.8,7.249l-.806.791a3,3,0,0,0,2.261,1.016,2.46,2.46,0,0,0,2.71-2.549l.01-4.194h-1.2l-.024.566A1.857,1.857,0,0,0,49.2,2.215,2.265,2.265,0,0,0,46.927,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,49.456,3.338Zm3.555,2.671A2.41,2.41,0,0,0,55.1,7.1c1,0,1.851-.571,1.851-1.455,0-.928-.664-1.265-1.709-1.519-.581-.142-.879-.225-.879-.479,0-.234.278-.376.684-.376a1.2,1.2,0,0,1,1.05.581l.8-.659a2.153,2.153,0,0,0-1.88-.977c-1.021,0-1.831.566-1.831,1.445,0,.962.723,1.289,1.748,1.519.571.127.82.215.82.464s-.293.41-.669.41a1.524,1.524,0,0,1-1.235-.723Z" transform="translate(0 69.406)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5751" data-name="Group 5751" transform="translate(14.396 1764.62)">
+      <g id="Group_5376" data-name="Group 5376" transform="translate(37.621 5.631)" clip-path="url(#clip-path-8)">
+        <g id="Group_5375" data-name="Group 5375" transform="translate(-53.839 -434.256)">
+          <path id="Path_3449" data-name="Path 3449" d="M0-372.68H475.824V297.711H0Z" transform="translate(0 372.68)" fill="url(#linear-gradient-5)"/>
+        </g>
+      </g>
+      <g id="Group_5378" data-name="Group 5378" transform="translate(13.201 0)" clip-path="url(#clip-path-9)">
+        <g id="Group_5377" data-name="Group 5377" transform="translate(12.783 13.815)">
+          <path id="Path_3451" data-name="Path 3451" d="M7.1,2.127A4.789,4.789,0,0,0,2.316-2.662H-1.515a4.391,4.391,0,0,0-3.617,1.9A21.248,21.248,0,0,0-8.461,6.915c-1.786,8.5,2.382,15.591,4.691,18.737A4,4,0,0,0-.544,27.271H.1a4.022,4.022,0,0,0,3.99-3.524l.439-3.508A2.485,2.485,0,0,1,7,18.061h.212a2.485,2.485,0,0,1,2.468,2.178l.439,3.508a4.022,4.022,0,0,0,3.99,3.524h.646a4,4,0,0,0,3.225-1.619c2.31-3.146,6.478-10.234,4.691-18.737A21.248,21.248,0,0,0,19.342-.762a4.391,4.391,0,0,0-3.617-1.9H3.651m-8.5,14.518a21.392,21.392,0,0,0,.678,4.538" transform="translate(8.894 2.662)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3732" data-name="Path 3732" d="M28.712,7h2.744a3.278,3.278,0,0,0,3.423-3.315A3.284,3.284,0,0,0,31.456.374H28.712Zm1.318-5.5h1.387a2.084,2.084,0,0,1,2.114,2.183,2.074,2.074,0,0,1-2.114,2.178H30.03Zm8.086,5.6A2.418,2.418,0,0,0,40.2,5.975l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,38.116,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM42.662,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64L42.6,2.313H41.412V7Zm4.8-3.647V5.462A1.53,1.53,0,0,0,49.185,7.1a2.858,2.858,0,0,0,1.133-.234L50.2,5.823a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H48.682V.809H47.467v1.5h-.8v1.04ZM52.628,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S51.563,7.1,52.628,7.1ZM53,4.993a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S52.428,4.993,53,4.993ZM57.755.125H56.5V7h1.25Z" transform="translate(0 68.98)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5758" data-name="Group 5758" transform="translate(14.396 1868.458)">
+      <g id="Group_5372" data-name="Group 5372" transform="translate(23.253 17.605)" clip-path="url(#clip-path-10)">
+        <g id="Group_5371" data-name="Group 5371" transform="translate(-39.471 -585.622)">
+          <path id="Path_3445" data-name="Path 3445" d="M-21.942-333.709H453.881V336.682H-21.942Z" transform="translate(21.942 333.709)" fill="url(#linear-gradient-6)"/>
+        </g>
+      </g>
+      <g id="Group_5374" data-name="Group 5374" transform="translate(13.201 0)" clip-path="url(#clip-path-11)">
+        <g id="Group_5373" data-name="Group 5373" transform="translate(12.664 12.663)">
+          <path id="Path_3447" data-name="Path 3447" d="M3.579,2.045H1.852A4.031,4.031,0,0,0-1.4,8.46m7.159,13.6a4.03,4.03,0,0,0,1.846,7.613h.576a3.455,3.455,0,0,0,3.454-3.454V.894A3.455,3.455,0,0,0,8.184-2.56H7.608A4.03,4.03,0,0,0,5.763,5.053M3.579,25.07H1.852A4.031,4.031,0,0,1-1.4,18.655m2.673.658a5.756,5.756,0,1,1,0-11.513M3,15.86a1.727,1.727,0,1,1,0-3.454A4.03,4.03,0,0,0,7.033,8.377V7.8M5.881,11.255h0a7.859,7.859,0,0,1,2.3,5.558v.2M19.7,2.045h1.727A4.031,4.031,0,0,1,24.672,8.46m-7.159,13.6a4.03,4.03,0,0,1-1.846,7.613h-.576a3.455,3.455,0,0,1-3.454-3.454V.894A3.455,3.455,0,0,1,15.091-2.56h.576a4.03,4.03,0,0,1,1.846,7.613M19.7,25.07h1.727a4.031,4.031,0,0,0,3.249-6.415M22,19.314A5.756,5.756,0,1,0,22,7.8M20.272,15.86a1.727,1.727,0,1,0,0-3.454,4.03,4.03,0,0,1-4.029-4.029V7.8m1.151,3.454h0a7.859,7.859,0,0,0-2.3,5.558v.2" transform="translate(4.48 2.56)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3731" data-name="Path 3731" d="M31.893,7h3.267A1.868,1.868,0,0,0,37.22,5.159a1.664,1.664,0,0,0-1.113-1.606A1.485,1.485,0,0,0,37,2.181,1.862,1.862,0,0,0,34.945.369H31.893ZM34.72,1.5a.822.822,0,0,1,.913.825.786.786,0,0,1-.864.8H33.211V1.5Zm.225,2.661a.826.826,0,0,1,.874.894.8.8,0,0,1-.874.815H33.211V4.163ZM38.338,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H38.338Zm5.234.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S42.508,7.1,43.573,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S43.372,4.993,43.944,4.993ZM47.352.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM48.7,7V2.313H47.449V7Zm2.671,0V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H50.125V7Z" transform="translate(0 70.718)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5752" data-name="Group 5752" transform="translate(101.156 1776.117)">
+      <g id="Group_5380" data-name="Group 5380" transform="translate(44.317 10.825)" clip-path="url(#clip-path-12)">
+        <g id="Group_5379" data-name="Group 5379" transform="translate(-180.112 -450.19)">
+          <path id="Path_3453" data-name="Path 3453" d="M-100.127-252.827H375.7V417.564H-100.127Z" transform="translate(100.127 252.827)" fill="url(#linear-gradient-7)"/>
+        </g>
+      </g>
+      <g id="Group_5381" data-name="Group 5381" transform="translate(37.221 0)">
+        <path id="Path_3455" data-name="Path 3455" d="M5.113,0-6.4,10.361V21.874L5.113,32.235M-6.4,0,5.113,10.361V21.874L-6.4,32.235m0-20.723H5.113M-6.4,16.118H5.113M-6.4,20.723H5.113" transform="translate(6.4)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <path id="Path_3733" data-name="Path 3733" d="M32.935,7h2.744A3.278,3.278,0,0,0,39.1,3.689,3.284,3.284,0,0,0,35.679.374H32.935Zm1.318-5.5H35.64a2.084,2.084,0,0,1,2.114,2.183A2.074,2.074,0,0,1,35.64,5.867H34.254ZM41.646,7V2.5L45.294,7H46.51V.369H45.191V4.92L41.524.369h-1.2V7Zm7.114,0,.493-1.3H52.33L52.818,7h1.406L51.544.369H50.03L47.354,7Zm.864-2.349,1.167-2.905,1.157,2.905Z" transform="translate(0 57.137)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5753" data-name="Group 5753" transform="translate(187.5 1769.886)">
+      <g id="Group_5399" data-name="Group 5399" transform="translate(35.94 0)" clip-path="url(#clip-path-13)">
+        <g id="Group_5398" data-name="Group 5398" transform="translate(-293.576 -434.07)">
+          <path id="Path_3474" data-name="Path 3474" d="M-163.2-248.027H312.62V422.364H-163.2Z" transform="translate(163.203 248.027)" fill="url(#linear-gradient-8)"/>
+        </g>
+      </g>
+      <path id="Path_3476" data-name="Path 3476" d="M183.668-96.578H162.946v-32.235h20.723Zm-23.025,0h25.328m-9.21,0h-6.908v-9.21h6.908ZM171-121.905h4.605m-2.3-2.3v4.605m-5.756,3.454h2.3m6.908,0h2.3m-11.513,4.605h2.3m6.908,0h2.3" transform="translate(-130.316 135.046)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3734" data-name="Path 3734" d="M24.649.369V7h1.318V4.188H29.2V7h1.313V.369H29.2V3.05H25.968V.369ZM34.21,7.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,34.21,7.1ZM32.95,4.656a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm4.478,1.353A2.41,2.41,0,0,0,39.517,7.1c1,0,1.851-.571,1.851-1.455,0-.928-.664-1.265-1.709-1.519-.581-.142-.879-.225-.879-.479,0-.234.278-.376.684-.376a1.2,1.2,0,0,1,1.05.581l.8-.659a2.153,2.153,0,0,0-1.88-.977c-1.021,0-1.831.566-1.831,1.445,0,.962.723,1.289,1.748,1.519.571.127.82.215.82.464s-.293.41-.669.41a1.524,1.524,0,0,1-1.235-.723Zm6.3,2.944V6.507a1.97,1.97,0,0,0,1.523.591,2.258,2.258,0,0,0,2.271-2.422,2.286,2.286,0,0,0-2.271-2.461,1.84,1.84,0,0,0-1.543.664l-.024-.566H42.481V8.953Zm0-4.282a1.273,1.273,0,1,1,2.544,0,1.272,1.272,0,1,1-2.544,0ZM48.511.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM49.864,7V2.313H48.609V7Zm1.66-3.647V5.462A1.53,1.53,0,0,0,53.248,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H52.745V.809H51.529v1.5h-.8v1.04ZM56.69,7.1a1.553,1.553,0,0,0,1.328-.62V7H59.21V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S55.626,7.1,56.69,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S56.49,4.993,57.061,4.993ZM61.817.125h-1.25V7h1.25Z" transform="translate(0 63.368)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5756" data-name="Group 5756" transform="translate(187.5 1868.111)">
+      <g id="Group_5416" data-name="Group 5416" transform="translate(53.728 26.739)" clip-path="url(#clip-path-14)">
+        <g id="Group_5415" data-name="Group 5415" transform="translate(-308.542 -594.757)">
+          <path id="Path_3494" data-name="Path 3494" d="M-171.523-334.474H304.3V335.917H-171.523Z" transform="translate(171.523 334.474)" fill="url(#linear-gradient-9)"/>
+        </g>
+      </g>
+      <g id="Group_5418" data-name="Group 5418" transform="translate(15.979 0)" clip-path="url(#clip-path-15)">
+        <g id="Group_5417" data-name="Group 5417" transform="translate(12.664 12.924)">
+          <path id="Path_3496" data-name="Path 3496" d="M1.534.511H-1.92v18.42H11.9V.511H8.441m0,1.151V-.64m-6.908,2.3V-.64M-1.92,14.326H11.9m18.42,4.605a3.454,3.454,0,1,1-3.454-3.454A3.455,3.455,0,0,1,30.315,18.931Zm-3.454-3.454V9.721h-9.21V29.293H4.988V18.931m21.874,0h0" transform="translate(1.92 0.64)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3729" data-name="Path 3729" d="M14.642,5.53A2.818,2.818,0,0,0,17.3,7.1c1.182,0,2.5-.64,2.5-1.938s-1.035-1.646-2.28-2.085c-.83-.293-1.313-.371-1.313-.9,0-.435.454-.708.967-.708a1.754,1.754,0,0,1,1.47.972l1.016-.723A2.791,2.791,0,0,0,17.205.271a2.13,2.13,0,0,0-2.349,1.9c0,1.279,1.04,1.67,2.314,2.07.791.249,1.284.483,1.284.923s-.5.737-1.138.737a1.846,1.846,0,0,1-1.7-1.079ZM21.1,3.353V5.462A1.53,1.53,0,0,0,22.821,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H22.318V.809H21.1v1.5h-.8v1.04ZM26.82,7.1A2.418,2.418,0,0,0,28.9,5.975l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,26.82,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Zm4.658-.84V5.462A1.53,1.53,0,0,0,32,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353H32.9V2.313H31.5V.809H30.282v1.5h-.8v1.04ZM35.238,7V4.378a.974.974,0,0,1,1.035-1,.917.917,0,0,1,.957,1V7h1.255V4.056a1.743,1.743,0,0,0-1.841-1.841,1.812,1.812,0,0,0-1.406.6V.125H33.983V7ZM42,7.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,42,7.1ZM40.74,4.656a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm4.478,1.353A2.41,2.41,0,0,0,47.308,7.1c1,0,1.851-.571,1.851-1.455,0-.928-.664-1.265-1.709-1.519-.581-.142-.879-.225-.879-.479,0-.234.278-.376.684-.376a1.2,1.2,0,0,1,1.05.581l.8-.659a2.153,2.153,0,0,0-1.88-.977c-1.021,0-1.831.566-1.831,1.445,0,.962.723,1.289,1.748,1.519.571.127.82.215.82.464s-.293.41-.669.41a1.524,1.524,0,0,1-1.235-.723ZM52.4,7.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811A1.251,1.251,0,0,1,51.17,4.671a1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,52.425,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,52.4,7.1Zm5.308,0a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,57.7,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm6.089,4.3V6.507a1.97,1.97,0,0,0,1.523.591,2.258,2.258,0,0,0,2.271-2.422,2.286,2.286,0,0,0-2.271-2.461,1.84,1.84,0,0,0-1.543.664l-.024-.566H61.282V8.953Zm0-4.282a1.273,1.273,0,1,1,2.544,0,1.272,1.272,0,1,1-2.544,0ZM69.539,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,69.539,7.1Zm-1.2-2.91A1.1,1.1,0,0,1,69.5,3.27a1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 70.718)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5757" data-name="Group 5757" transform="translate(101.156 1885.457)">
+      <g id="Group_5397" data-name="Group 5397" transform="translate(46.633 6.908)" clip-path="url(#clip-path-16)">
+        <g id="Group_5396" data-name="Group 5396" transform="translate(-181.089 -592.194)">
+          <path id="Path_3471" data-name="Path 3471" d="M-100.67-334.969H375.154V335.422H-100.67Z" transform="translate(100.67 334.969)" fill="url(#linear-gradient-10)"/>
+        </g>
+      </g>
+      <path id="Path_3473" data-name="Path 3473" d="M123.625-24.286H91.39V-47.311h32.235ZM101.751-47.311v23.025M96-41.555h1.151M96-35.8h1.151M96-30.042h1.151m9.21-5.756h2.3l2.3,5.756,3.454-12.664,2.3,10.361,1.151-3.454h1.151" transform="translate(-65.538 47.311)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3730" data-name="Path 3730" d="M21.773.369V7h1.318V4.188h3.232V7h1.313V.369H26.324V3.05H23.092V.369ZM31.3,7.1a2.418,2.418,0,0,0,2.085-1.128L32.5,5.311a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,31.3,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM36.06,7.1a1.553,1.553,0,0,0,1.328-.62V7H38.58V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S35,7.1,36.06,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S35.86,4.993,36.431,4.993ZM39.937,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107L43,2.322a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H39.937ZM44.1,3.353V5.462A1.53,1.53,0,0,0,45.821,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H45.318V.809H44.1v1.5h-.8v1.04ZM47.8,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H47.8Zm5.234.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S51.973,7.1,53.038,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S52.838,4.993,53.409,4.993ZM57.1,3.353V5.462A1.53,1.53,0,0,0,58.819,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H58.316V.809H57.1v1.5h-.8v1.04ZM62.818,7.1A2.418,2.418,0,0,0,64.9,5.975l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,65.03,4.5,2.164,2.164,0,0,0,62.76,2.215a2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,62.818,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM24.4,15h1.318V10.933l1.787,3.623h.854l1.787-3.623V15h1.318V8.369h-1.4l-2.134,4.414L25.8,8.369H24.4Zm10.063.1a1.553,1.553,0,0,0,1.328-.62V15h1.191V12.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S33.4,15.1,34.466,15.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S34.266,12.993,34.837,12.993Zm5.63,2.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.307,1.307,0,0,1,.02-2.612,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,40.5,10.2,2.453,2.453,0,0,0,38,12.646,2.427,2.427,0,0,0,40.467,15.1ZM44.91,15V12.378a.974.974,0,0,1,1.035-1,.917.917,0,0,1,.957,1V15h1.255V12.056a1.743,1.743,0,0,0-1.841-1.841,1.812,1.812,0,0,0-1.406.6V8.125H43.656V15Zm4.507-6.191a.72.72,0,1,0,.718-.723A.684.684,0,0,0,49.417,8.809ZM50.77,15V10.313H49.515V15Zm2.671,0V12.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V15H56.7V12.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H52.191V15Zm6.748.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,62.4,12.5a2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,60.189,15.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 53.45)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5767" data-name="Group 5767" transform="translate(-90.942 -67.438)">
+      <g id="Group_5387" data-name="Group 5387" transform="translate(231.355 1651.549)" clip-path="url(#clip-path-17)">
+        <g id="Group_5386" data-name="Group 5386" transform="translate(-173.955 -164.023)">
+          <path id="Path_3460" data-name="Path 3460" d="M0-372.68H475.823V297.711H0Z" transform="translate(0 372.68)" fill="url(#linear-gradient-11)"/>
+        </g>
+      </g>
+      <g id="Group_5743" data-name="Group 5743" transform="translate(192.098 1627.6)">
+        <g id="Group_5389" data-name="Group 5389" transform="translate(14.391 0)" clip-path="url(#clip-path-18)">
+          <g id="Group_5388" data-name="Group 5388" transform="translate(12.663 19.817)">
+            <path id="Path_3462" data-name="Path 3462" d="M1.735,2.246-2.172,6.153l3.907,3.905a17.266,17.266,0,0,0,24.421,0l3.907-3.905L26.156,2.246A17.268,17.268,0,0,0,1.735,2.246ZM19.7,6.153A5.756,5.756,0,1,1,13.946.4,5.757,5.757,0,0,1,19.7,6.153Zm-4.605,0A1.151,1.151,0,1,1,13.946,5,1.151,1.151,0,0,1,15.1,6.153ZM26.609,2.7V8.839M1.282,2.7V8.839" transform="translate(2.172 2.812)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3741" data-name="Path 3741" d="M35.738,7h4.79V5.862H37.056V4.183h2.949V3.04H37.056V1.512h3.4V.369H35.738Zm7.041,0a1.092,1.092,0,0,1-1.04.957,1.591,1.591,0,0,1-.591-.122l-.156,1.006a2.026,2.026,0,0,0,.894.205A1.975,1.975,0,0,0,43.844,7.64l2.212-5.327H44.664L43.453,5.726,42.227,2.313H40.841Zm6.074.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,48.853,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 65.337)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5745" data-name="Group 5745" transform="translate(187.5 1575.163)">
+      <g id="Group_5744" data-name="Group 5744" transform="translate(27.227 0)">
+        <g id="Group_5391" data-name="Group 5391" transform="translate(2.856 31.052)" clip-path="url(#clip-path-19)">
+          <g id="Group_5390" data-name="Group 5390" transform="translate(-288.973 -183.451)">
+            <path id="Path_3464" data-name="Path 3464" d="M-160.643-103.9H315.18V566.489H-160.643Z" transform="translate(160.643 103.902)" fill="url(#linear-gradient-12)"/>
+          </g>
+        </g>
+        <path id="Path_3466" data-name="Path 3466" d="M190.958-256.125H158.723V-279.15h32.235Zm-9.21-28.781v5.756H167.933v-5.756m13.815,1.151H167.933v-2.3h13.815Zm0,13.815h-4.605v-4.605h-4.605v4.605h-4.605v4.605h4.605v4.605h4.605v-4.605h4.605Z" transform="translate(-158.723 286.058)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <path id="Path_3742" data-name="Path 3742" d="M16.729,7h1.318V4.212h2.671V3.069H18.048V1.512h3.4V.369H16.729ZM22.305.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM23.658,7V2.313H22.4V7Zm1.421,0h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H25.079Zm3.472-.991A2.41,2.41,0,0,0,30.64,7.1c1,0,1.851-.571,1.851-1.455,0-.928-.664-1.265-1.709-1.519C30.2,3.982,29.9,3.9,29.9,3.646c0-.234.278-.376.684-.376a1.2,1.2,0,0,1,1.05.581l.8-.659a2.153,2.153,0,0,0-1.88-.977c-1.021,0-1.831.566-1.831,1.445,0,.962.723,1.289,1.748,1.519.571.127.82.215.82.464s-.293.41-.669.41A1.524,1.524,0,0,1,29.39,5.33Zm5.244-2.656V5.462A1.53,1.53,0,0,0,35.518,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H35.015V.809H33.8v1.5H33v1.04ZM40.372,7l.493-1.3h3.076L44.429,7h1.406L43.155.369H41.641L38.966,7Zm.864-2.349L42.4,1.746,43.56,4.651ZM46.466.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM47.818,7V2.313H46.563V7ZM48.9,4.651A2.279,2.279,0,0,0,51.173,7.1,1.955,1.955,0,0,0,52.7,6.5l.024.5h1.23V.125H52.72V2.879a1.857,1.857,0,0,0-1.548-.664A2.265,2.265,0,0,0,48.9,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,51.431,3.338ZM59.244,7V4.993l.986-1.05L62.271,7h1.6L61.168,3.064l2.554-2.7H62.032L59.244,3.377V.369H57.926V7Zm5.2-6.191a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM65.792,7V2.313H64.537V7Zm1.66-3.647V5.462A1.53,1.53,0,0,0,69.176,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H68.673V.809H67.457v1.5h-.8v1.04Z" transform="translate(0 50.336)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5749" data-name="Group 5749" transform="translate(187.5 1675.155)">
+      <g id="Group_5411" data-name="Group 5411" transform="translate(36.052 9.716)" clip-path="url(#clip-path-20)">
+        <g id="Group_5410" data-name="Group 5410" transform="translate(-293 -305.882)">
+          <path id="Path_3487" data-name="Path 3487" d="M-162.883-175.43H312.94V494.961H-162.883Z" transform="translate(162.883 175.43)" fill="url(#linear-gradient-13)"/>
+        </g>
+      </g>
+      <path id="Path_3489" data-name="Path 3489" d="M180.214-200.848H166.4v-4.605h13.815Zm-19.571,25.328h25.328v-29.933H160.643Zm0-29.933M171-193.941h4.605m-2.3-2.3v4.605m-5.756,4.605h11.513m-9.21,4.6h6.908m-1.151-23.025H171v-2.3h4.605Z" transform="translate(-130.316 207.756)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3737" data-name="Path 3737" d="M25.865,7h1.318V2.933L28.97,6.556h.854l1.787-3.623V7H32.93V.369h-1.4L29.4,4.783,27.261.369h-1.4ZM36.6,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,36.6,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Zm4.16.459A2.279,2.279,0,0,0,41.827,7.1a1.955,1.955,0,0,0,1.523-.6l.024.5h1.23V.125h-1.23V2.879a1.857,1.857,0,0,0-1.548-.664A2.265,2.265,0,0,0,39.556,4.651Zm2.529-1.313A1.257,1.257,0,0,1,43.36,4.646a1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,42.086,3.338ZM45.928.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM47.281,7V2.313H46.026V7Zm3.545.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811A1.251,1.251,0,0,1,49.6,4.671a1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,50.855,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,50.826,7.1Zm4.648,0a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S54.41,7.1,55.474,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S55.274,4.993,55.845,4.993ZM60.6.125h-1.25V7H60.6ZM29.476,15V12.588h1.44L32.269,15h1.445l-1.5-2.632A1.981,1.981,0,0,0,33.45,10.5a2.131,2.131,0,0,0-2.373-2.129H28.153V15Zm0-5.483h1.519a.975.975,0,1,1,0,1.934H29.476ZM36.707,15.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,36.707,15.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Zm5.747,4.761V14.507a1.97,1.97,0,0,0,1.523.591,2.258,2.258,0,0,0,2.271-2.422,2.286,2.286,0,0,0-2.271-2.461,1.84,1.84,0,0,0-1.543.664l-.024-.566H40v6.641Zm0-4.282a1.273,1.273,0,1,1,2.544,0,1.272,1.272,0,1,1-2.544,0ZM48.289,15.1a2.442,2.442,0,1,0-2.5-2.441A2.415,2.415,0,0,0,48.289,15.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0ZM51.868,15h1.255V12.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H51.868Zm4.16-3.647v2.109A1.53,1.53,0,0,0,57.752,15.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V11.353h1.377v-1.04H57.249v-1.5H56.033v1.5h-.8v1.04Z" transform="translate(0 54.709)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5768" data-name="Group 5768" transform="translate(-93.533 -131.164)">
+      <g id="Group_5420" data-name="Group 5420" transform="translate(230.545 1801.334)" clip-path="url(#clip-path-21)">
+        <g id="Group_5419" data-name="Group 5419" transform="translate(-173.271 -293.353)">
+          <path id="Path_3498" data-name="Path 3498" d="M-96.324-167.743H379.5V502.648H-96.324Z" transform="translate(96.324 167.743)" fill="url(#linear-gradient-14)"/>
+        </g>
+      </g>
+      <g id="Group_5748" data-name="Group 5748" transform="translate(194.689 1793.521)">
+        <g id="Group_5422" data-name="Group 5422" transform="translate(11.8 0)" clip-path="url(#clip-path-22)">
+          <g id="Group_5421" data-name="Group 5421" transform="translate(12.664 12.663)">
+            <path id="Path_3500" data-name="Path 3500" d="M4.09,1.534H-5.12V30.315H27.115V1.534h-9.21m0,3.454A6.908,6.908,0,1,1,11-1.92,6.907,6.907,0,0,1,17.905,4.988ZM11,4.988l-2.3-2.3M4.09,22.256l5.181-5.181m2.878,5.181,5.181-5.181" transform="translate(5.12 1.92)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3738" data-name="Path 3738" d="M26.453.369,28.27,7h1.846l1.211-4.272L32.542,7h1.846L36.2.369H34.881l-1.47,5.317L31.922.472H30.736L29.246,5.687,27.777.369ZM38.875,7.1A2.418,2.418,0,0,0,40.96,5.975l-.889-.664A1.37,1.37,0,0,1,38.9,5.97a1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285A2.34,2.34,0,0,0,36.4,4.651,2.369,2.369,0,0,0,38.875,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Zm4.4-3.384a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM43.426,7V2.313H42.171V7Zm1.1-2.349A2.279,2.279,0,0,0,46.8,7.1a1.878,1.878,0,0,0,1.523-.625v.161a1.307,1.307,0,0,1-1.47,1.294A2.09,2.09,0,0,1,45.4,7.249l-.806.791a3,3,0,0,0,2.261,1.016,2.46,2.46,0,0,0,2.71-2.549l.01-4.194h-1.2l-.024.566A1.857,1.857,0,0,0,46.8,2.215,2.265,2.265,0,0,0,44.53,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,47.059,3.338ZM52.23,7V4.378a.974.974,0,0,1,1.035-1,.917.917,0,0,1,.957,1V7h1.255V4.056a1.743,1.743,0,0,0-1.841-1.841,1.812,1.812,0,0,0-1.406.6V.125H50.975V7Zm4.785-3.647V5.462A1.53,1.53,0,0,0,58.739,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H58.236V.809H57.02v1.5h-.8v1.04ZM31.231,13.53A2.818,2.818,0,0,0,33.892,15.1c1.182,0,2.5-.64,2.5-1.938s-1.035-1.646-2.28-2.085c-.83-.293-1.313-.371-1.313-.9,0-.435.454-.708.967-.708a1.754,1.754,0,0,1,1.47.972l1.016-.723a2.791,2.791,0,0,0-2.451-1.44,2.13,2.13,0,0,0-2.349,1.9c0,1.279,1.04,1.67,2.314,2.07.791.249,1.284.483,1.284.923s-.5.737-1.138.737a1.846,1.846,0,0,1-1.7-1.079ZM39.625,15.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.307,1.307,0,0,1,.02-2.612,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,39.654,10.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,39.625,15.1Zm4.648,0a1.553,1.553,0,0,0,1.328-.62V15h1.191V12.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S43.209,15.1,44.273,15.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S44.073,12.993,44.644,12.993ZM49.4,8.125H48.15V15H49.4ZM52.95,15.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,52.95,15.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Z" transform="translate(-0.001 67.507)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5763" data-name="Group 5763" transform="translate(101.156 1461.34)">
+      <g id="Group_5360" data-name="Group 5360" transform="translate(35.624 20.839)" clip-path="url(#clip-path-23)">
+        <g id="Group_5359" data-name="Group 5359" transform="translate(-172.572 -20.84)">
+          <path id="Path_3433" data-name="Path 3433" d="M-95.934-17.92H379.889V652.471H-95.934Z" transform="translate(95.934 17.92)" fill="url(#linear-gradient-15)"/>
+        </g>
+      </g>
+      <g id="Group_5760" data-name="Group 5760" transform="translate(0 0)">
+        <g id="Group_5362" data-name="Group 5362" transform="translate(11.8)" clip-path="url(#clip-path-24)">
+          <g id="Group_5361" data-name="Group 5361" transform="translate(12.664 12.664)">
+            <path id="Path_3435" data-name="Path 3435" d="M8.824.493l-18.76,18.76a3.791,3.791,0,0,0,0,5.359l5.9,5.9a3.79,3.79,0,0,0,5.361,0l18.758-18.76a3.79,3.79,0,0,0,0-5.361L14.184.493A3.79,3.79,0,0,0,8.824.493ZM5.071,26.756-6.184,15.5,5.071,4.245,16.328,15.5ZM2.769,13.2H6.222M2.769,17.8H8.525M-5.38,22.736h0m3.216,3.216h0M12.308,5.05h0m3.216,3.215h0" transform="translate(11.046 0.617)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3746" data-name="Path 3746" d="M23.116,7h3.267a1.868,1.868,0,0,0,2.061-1.841A1.664,1.664,0,0,0,27.33,3.553a1.485,1.485,0,0,0,.889-1.372A1.862,1.862,0,0,0,26.168.369H23.116Zm2.827-5.5a.822.822,0,0,1,.913.825.786.786,0,0,1-.864.8H24.434V1.5Zm.225,2.661a.826.826,0,0,1,.874.894.8.8,0,0,1-.874.815H24.434V4.163ZM31.021,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S29.957,7.1,31.021,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S30.821,4.993,31.392,4.993ZM36.148,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H34.9V7ZM40.43,4.651A2.279,2.279,0,0,0,42.7,7.1a1.955,1.955,0,0,0,1.523-.6l.024.5h1.23V.125h-1.23V2.879A1.857,1.857,0,0,0,42.7,2.215,2.265,2.265,0,0,0,40.43,4.651ZM42.96,3.338a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,42.96,3.338ZM49.771,7l.493-1.3h3.076L53.829,7h1.406L52.554.369H51.041L48.365,7Zm.864-2.349L51.8,1.746,52.96,4.651ZM55.865.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM57.218,7V2.313H55.963V7ZM58.3,4.651A2.279,2.279,0,0,0,60.572,7.1,1.955,1.955,0,0,0,62.1,6.5l.024.5h1.23V.125H62.12V2.879a1.857,1.857,0,0,0-1.548-.664A2.265,2.265,0,0,0,58.3,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,60.831,3.338Z" transform="translate(0 63.965)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5761" data-name="Group 5761" transform="translate(187.5 1461.34)">
+      <g id="Group_5364" data-name="Group 5364" transform="translate(23.307 20.41)" clip-path="url(#clip-path-25)">
+        <g id="Group_5363" data-name="Group 5363" transform="translate(-284.079 -20.41)">
+          <path id="Path_3437" data-name="Path 3437" d="M-157.924-18.969H317.9V651.422H-157.924Z" transform="translate(157.924 18.969)" fill="url(#linear-gradient-16)"/>
+        </g>
+      </g>
+      <g id="Group_5366" data-name="Group 5366" transform="translate(15.979 0)" clip-path="url(#clip-path-26)">
+        <g id="Group_5365" data-name="Group 5365" transform="translate(14.292 12.664)">
+          <path id="Path_3439" data-name="Path 3439" d="M8.7,6.468.058-4.643-8.585,6.468a10.949,10.949,0,0,0,.9,14.463h0a10.947,10.947,0,0,0,15.483,0h0A10.947,10.947,0,0,0,8.7,6.468ZM-6.79,15.435a7.343,7.343,0,0,0,1.847,3.087m15.569-8.213A7.007,7.007,0,0,0,16.613-.986L11.083-8.1,5.552-.986A7,7,0,0,0,4.462,1.02m-6.618,7H2.449m-2.3-2.3v4.605" transform="translate(10.891 8.097)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3745" data-name="Path 3745" d="M30.582,7h3.267a1.868,1.868,0,0,0,2.061-1.841A1.664,1.664,0,0,0,34.8,3.553a1.485,1.485,0,0,0,.889-1.372A1.862,1.862,0,0,0,33.634.369H30.582Zm2.827-5.5a.822.822,0,0,1,.913.825.786.786,0,0,1-.864.8H31.9V1.5Zm.225,2.661a.826.826,0,0,1,.874.894.8.8,0,0,1-.874.815H31.9V4.163ZM38.277.125h-1.25V7h1.25ZM41.856,7.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,41.856,7.1ZM40.6,4.656a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm7,2.441a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,47.594,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm4.5,0A2.279,2.279,0,0,0,53.106,7.1a1.955,1.955,0,0,0,1.523-.6l.024.5h1.23V.125h-1.23V2.879a1.857,1.857,0,0,0-1.548-.664A2.265,2.265,0,0,0,50.836,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,53.365,3.338Z" transform="translate(0 63.965)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5512" data-name="Group 5512" transform="translate(22.5 2113.646)">
+      <g id="Group_5428" data-name="Group 5428" transform="translate(0 2.762)">
+        <path id="Path_3506" data-name="Path 3506" d="M0,.9H15.776V-2.077H0Z" transform="translate(0 2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5429" data-name="Group 5429" transform="translate(6.401 -3.638)">
+        <path id="Path_3507" data-name="Path 3507" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5430" data-name="Group 5430" transform="translate(28.395 2.763)">
+        <path id="Path_3508" data-name="Path 3508" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5431" data-name="Group 5431" transform="translate(34.796 -3.638)">
+        <path id="Path_3509" data-name="Path 3509" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5432" data-name="Group 5432" transform="translate(56.79 2.763)">
+        <path id="Path_3510" data-name="Path 3510" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5433" data-name="Group 5433" transform="translate(63.191 -3.638)">
+        <path id="Path_3511" data-name="Path 3511" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5434" data-name="Group 5434" transform="translate(85.185 2.763)">
+        <path id="Path_3512" data-name="Path 3512" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5435" data-name="Group 5435" transform="translate(91.586 -3.638)">
+        <path id="Path_3513" data-name="Path 3513" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5436" data-name="Group 5436" transform="translate(113.58 2.763)">
+        <path id="Path_3514" data-name="Path 3514" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5437" data-name="Group 5437" transform="translate(119.981 -3.638)">
+        <path id="Path_3515" data-name="Path 3515" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5438" data-name="Group 5438" transform="translate(141.975 2.763)">
+        <path id="Path_3516" data-name="Path 3516" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5439" data-name="Group 5439" transform="translate(148.376 -3.638)">
+        <path id="Path_3517" data-name="Path 3517" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5440" data-name="Group 5440" transform="translate(170.37 2.763)">
+        <path id="Path_3518" data-name="Path 3518" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5441" data-name="Group 5441" transform="translate(176.771 -3.638)">
+        <path id="Path_3519" data-name="Path 3519" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5442" data-name="Group 5442" transform="translate(198.765 2.763)">
+        <path id="Path_3520" data-name="Path 3520" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5443" data-name="Group 5443" transform="translate(205.166 -3.638)">
+        <path id="Path_3521" data-name="Path 3521" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5444" data-name="Group 5444" transform="translate(227.16 2.763)">
+        <path id="Path_3522" data-name="Path 3522" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5445" data-name="Group 5445" transform="translate(233.561 -3.638)">
+        <path id="Path_3523" data-name="Path 3523" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5446" data-name="Group 5446" transform="translate(255.555 2.763)">
+        <path id="Path_3524" data-name="Path 3524" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5447" data-name="Group 5447" transform="translate(261.956 -3.638)">
+        <path id="Path_3525" data-name="Path 3525" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5448" data-name="Group 5448" transform="translate(283.95 2.763)">
+        <path id="Path_3526" data-name="Path 3526" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5449" data-name="Group 5449" transform="translate(290.351 -3.638)">
+        <path id="Path_3527" data-name="Path 3527" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5450" data-name="Group 5450" transform="translate(312.345 2.763)">
+        <path id="Path_3528" data-name="Path 3528" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5451" data-name="Group 5451" transform="translate(318.746 -3.638)">
+        <path id="Path_3529" data-name="Path 3529" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3530" data-name="Path 3530" d="M0-41.693H15.776v-2.974H0Z" transform="translate(0 19.035)" fill="#d6d3d8"/>
+      <g id="Group_5452" data-name="Group 5452" transform="translate(6.401 -32.033)">
+        <path id="Path_3531" data-name="Path 3531" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5453" data-name="Group 5453" transform="translate(28.395 -25.632)">
+        <path id="Path_3532" data-name="Path 3532" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5454" data-name="Group 5454" transform="translate(34.796 -32.033)">
+        <path id="Path_3533" data-name="Path 3533" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5455" data-name="Group 5455" transform="translate(56.79 -25.632)">
+        <path id="Path_3534" data-name="Path 3534" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5456" data-name="Group 5456" transform="translate(63.191 -32.033)">
+        <path id="Path_3535" data-name="Path 3535" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5457" data-name="Group 5457" transform="translate(85.185 -25.632)">
+        <path id="Path_3536" data-name="Path 3536" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5458" data-name="Group 5458" transform="translate(91.586 -32.033)">
+        <path id="Path_3537" data-name="Path 3537" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5459" data-name="Group 5459" transform="translate(113.58 -25.632)">
+        <path id="Path_3538" data-name="Path 3538" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5460" data-name="Group 5460" transform="translate(119.981 -32.033)">
+        <path id="Path_3539" data-name="Path 3539" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5461" data-name="Group 5461" transform="translate(141.975 -25.632)">
+        <path id="Path_3540" data-name="Path 3540" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5462" data-name="Group 5462" transform="translate(148.376 -32.033)">
+        <path id="Path_3541" data-name="Path 3541" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5463" data-name="Group 5463" transform="translate(170.37 -25.632)">
+        <path id="Path_3542" data-name="Path 3542" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5464" data-name="Group 5464" transform="translate(176.771 -32.033)">
+        <path id="Path_3543" data-name="Path 3543" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5465" data-name="Group 5465" transform="translate(198.765 -25.632)">
+        <path id="Path_3544" data-name="Path 3544" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5466" data-name="Group 5466" transform="translate(205.166 -32.033)">
+        <path id="Path_3545" data-name="Path 3545" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5467" data-name="Group 5467" transform="translate(227.16 -25.632)">
+        <path id="Path_3546" data-name="Path 3546" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5468" data-name="Group 5468" transform="translate(233.561 -32.033)">
+        <path id="Path_3547" data-name="Path 3547" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5469" data-name="Group 5469" transform="translate(255.555 -25.632)">
+        <path id="Path_3548" data-name="Path 3548" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5470" data-name="Group 5470" transform="translate(261.956 -32.033)">
+        <path id="Path_3549" data-name="Path 3549" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5471" data-name="Group 5471" transform="translate(283.95 -25.632)">
+        <path id="Path_3550" data-name="Path 3550" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5472" data-name="Group 5472" transform="translate(290.351 -32.033)">
+        <path id="Path_3551" data-name="Path 3551" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5473" data-name="Group 5473" transform="translate(312.345 -25.632)">
+        <path id="Path_3552" data-name="Path 3552" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5474" data-name="Group 5474" transform="translate(318.746 -32.033)">
+        <path id="Path_3553" data-name="Path 3553" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3554" data-name="Path 3554" d="M0-61.536H15.776v-2.972H0Z" transform="translate(0 10.482)" fill="#d6d3d8"/>
+      <g id="Group_5475" data-name="Group 5475" transform="translate(6.401 -60.428)">
+        <path id="Path_3555" data-name="Path 3555" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5476" data-name="Group 5476" transform="translate(28.395 -54.027)">
+        <path id="Path_3556" data-name="Path 3556" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5477" data-name="Group 5477" transform="translate(34.796 -60.428)">
+        <path id="Path_3557" data-name="Path 3557" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5478" data-name="Group 5478" transform="translate(56.79 -54.027)">
+        <path id="Path_3558" data-name="Path 3558" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5479" data-name="Group 5479" transform="translate(63.191 -60.428)">
+        <path id="Path_3559" data-name="Path 3559" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5480" data-name="Group 5480" transform="translate(85.185 -54.027)">
+        <path id="Path_3560" data-name="Path 3560" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5481" data-name="Group 5481" transform="translate(91.586 -60.428)">
+        <path id="Path_3561" data-name="Path 3561" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5482" data-name="Group 5482" transform="translate(113.58 -54.027)">
+        <path id="Path_3562" data-name="Path 3562" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5483" data-name="Group 5483" transform="translate(119.981 -60.428)">
+        <path id="Path_3563" data-name="Path 3563" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5484" data-name="Group 5484" transform="translate(141.975 -54.027)">
+        <path id="Path_3564" data-name="Path 3564" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5485" data-name="Group 5485" transform="translate(148.376 -60.428)">
+        <path id="Path_3565" data-name="Path 3565" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5486" data-name="Group 5486" transform="translate(170.37 -54.027)">
+        <path id="Path_3566" data-name="Path 3566" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5487" data-name="Group 5487" transform="translate(176.771 -60.428)">
+        <path id="Path_3567" data-name="Path 3567" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5488" data-name="Group 5488" transform="translate(198.765 -54.027)">
+        <path id="Path_3568" data-name="Path 3568" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5489" data-name="Group 5489" transform="translate(205.166 -60.428)">
+        <path id="Path_3569" data-name="Path 3569" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5490" data-name="Group 5490" transform="translate(227.16 -54.027)">
+        <path id="Path_3570" data-name="Path 3570" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5491" data-name="Group 5491" transform="translate(233.561 -60.428)">
+        <path id="Path_3571" data-name="Path 3571" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5492" data-name="Group 5492" transform="translate(255.555 -54.027)">
+        <path id="Path_3572" data-name="Path 3572" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5493" data-name="Group 5493" transform="translate(261.956 -60.428)">
+        <path id="Path_3573" data-name="Path 3573" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5494" data-name="Group 5494" transform="translate(283.95 -54.027)">
+        <path id="Path_3574" data-name="Path 3574" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5495" data-name="Group 5495" transform="translate(290.351 -60.428)">
+        <path id="Path_3575" data-name="Path 3575" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5496" data-name="Group 5496" transform="translate(312.345 -54.027)">
+        <path id="Path_3576" data-name="Path 3576" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5497" data-name="Group 5497" transform="translate(318.746 -60.428)">
+        <path id="Path_3577" data-name="Path 3577" d="M.9,0H-2.078V15.776H.9Z" transform="translate(2.078)" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3578" data-name="Path 3578" d="M0-81.378H15.776V-84.35H0Z" transform="translate(0 1.928)" fill="#d6d3d8"/>
+      <path id="Path_3579" data-name="Path 3579" d="M4.473-73.047H7.447V-88.823H4.473Z" transform="translate(1.928 0)" fill="#d6d3d8"/>
+      <g id="Group_5498" data-name="Group 5498" transform="translate(28.395 -82.422)">
+        <path id="Path_3580" data-name="Path 3580" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3581" data-name="Path 3581" d="M24.314-73.047h2.974V-88.823H24.314Z" transform="translate(10.481 0)" fill="#d6d3d8"/>
+      <g id="Group_5499" data-name="Group 5499" transform="translate(56.79 -82.422)">
+        <path id="Path_3582" data-name="Path 3582" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3583" data-name="Path 3583" d="M44.157-73.047h2.972V-88.823H44.157Z" transform="translate(19.035 0)" fill="#d6d3d8"/>
+      <g id="Group_5500" data-name="Group 5500" transform="translate(85.185 -82.422)">
+        <path id="Path_3584" data-name="Path 3584" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5501" data-name="Group 5501" transform="translate(91.586 -88.823)">
+        <path id="Path_3585" data-name="Path 3585" d="M0,0V15.776H2.972V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5502" data-name="Group 5502" transform="translate(113.58 -82.422)">
+        <path id="Path_3586" data-name="Path 3586" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3587" data-name="Path 3587" d="M83.84-73.047h2.974V-88.823H83.84Z" transform="translate(36.142 0)" fill="#d6d3d8"/>
+      <g id="Group_5503" data-name="Group 5503" transform="translate(141.975 -82.422)">
+        <path id="Path_3588" data-name="Path 3588" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3589" data-name="Path 3589" d="M103.682-73.047h2.972V-88.823h-2.972Z" transform="translate(44.695 0)" fill="#d6d3d8"/>
+      <g id="Group_5504" data-name="Group 5504" transform="translate(170.37 -82.422)">
+        <path id="Path_3590" data-name="Path 3590" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3591" data-name="Path 3591" d="M123.523-73.047H126.5V-88.823h-2.972Z" transform="translate(53.248 0)" fill="#d6d3d8"/>
+      <g id="Group_5505" data-name="Group 5505" transform="translate(198.765 -82.422)">
+        <path id="Path_3592" data-name="Path 3592" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3593" data-name="Path 3593" d="M143.365-73.047h2.974V-88.823h-2.974Z" transform="translate(61.801 0)" fill="#d6d3d8"/>
+      <g id="Group_5506" data-name="Group 5506" transform="translate(227.16 -82.422)">
+        <path id="Path_3594" data-name="Path 3594" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5507" data-name="Group 5507" transform="translate(233.56 -88.823)">
+        <path id="Path_3595" data-name="Path 3595" d="M0,0V15.776H2.973V0Z" transform="translate(0.001)" fill="#d6d3d8"/>
+      </g>
+      <g id="Group_5508" data-name="Group 5508" transform="translate(255.555 -82.422)">
+        <path id="Path_3596" data-name="Path 3596" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3597" data-name="Path 3597" d="M183.048-73.047h2.972V-88.823h-2.972Z" transform="translate(78.908 0)" fill="#d6d3d8"/>
+      <g id="Group_5509" data-name="Group 5509" transform="translate(283.95 -82.422)">
+        <path id="Path_3598" data-name="Path 3598" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3599" data-name="Path 3599" d="M202.89-73.047h2.974V-88.823H202.89Z" transform="translate(87.461 0)" fill="#d6d3d8"/>
+      <g id="Group_5510" data-name="Group 5510" transform="translate(312.345 -82.422)">
+        <path id="Path_3600" data-name="Path 3600" d="M0,0V2.974H15.776V0Z" fill="#d6d3d8"/>
+      </g>
+      <path id="Path_3601" data-name="Path 3601" d="M222.731-73.047H225.7V-88.823h-2.974Z" transform="translate(96.014 0)" fill="#d6d3d8"/>
+    </g>
+    <g id="Group_5517" data-name="Group 5517" transform="translate(22.5 2259.768)">
+      <g id="Group_5515" data-name="Group 5515" transform="translate(0 -87.383)" clip-path="url(#clip-path-28)">
+        <g id="Group_5514" data-name="Group 5514" transform="translate(-1.619 -1.524)">
+          <g id="Group_5513" data-name="Group 5513" clip-path="url(#clip-path-29)">
+            <image id="Rectangle_207" data-name="Rectangle 207" width="323.433" height="105.99" xlink:href="data:image/png;base64,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"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5522" data-name="Group 5522" transform="translate(15.5 2399.524)">
+      <g id="Group_5520" data-name="Group 5520" transform="translate(0 -81.625)" clip-path="url(#clip-path-31)">
+        <g id="Group_5519" data-name="Group 5519" transform="translate(0 -1.696)">
+          <g id="Group_5518" data-name="Group 5518" clip-path="url(#clip-path-32)">
+            <rect id="Rectangle_209" data-name="Rectangle 209" width="335.578" height="98.3" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_3725" data-name="Path 3725" d="M9.45,7V4.72h1.577A2.166,2.166,0,0,0,13.4,2.557,2.155,2.155,0,0,0,11.027.369h-2.9V7Zm0-5.483h1.494a1,1,0,0,1,1.1,1.045,1,1,0,0,1-1.1,1.021H9.45ZM15.759,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S14.694,7.1,15.759,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S15.559,4.993,16.13,4.993Zm3.687-1.641V5.462A1.53,1.53,0,0,0,21.54,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H21.037V.809H19.821v1.5h-.8v1.04Zm3.945,0V5.462A1.53,1.53,0,0,0,25.485,7.1a2.858,2.858,0,0,0,1.133-.234L26.5,5.823a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H24.982V.809H23.767v1.5h-.8v1.04ZM29.484,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,31.7,4.5a2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,29.484,7.1Zm-1.2-2.91A1.1,1.1,0,0,1,29.44,3.27a1.053,1.053,0,0,1,1.089.923ZM32.78,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H32.78Zm5.171,0V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H36.7V7Zm7.9,0H47.17V.369H44.44V1.526h1.411Z" transform="translate(303.5 2136.239)" fill="#c7c9c7"/>
+    <path id="Path_3726" data-name="Path 3726" d="M7.658,7V4.72H9.235a2.166,2.166,0,0,0,2.373-2.163A2.155,2.155,0,0,0,9.235.369h-2.9V7Zm0-5.483H9.152a1,1,0,0,1,1.1,1.045,1,1,0,0,1-1.1,1.021H7.658ZM13.967,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S12.9,7.1,13.967,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S13.767,4.993,14.338,4.993Zm3.687-1.641V5.462A1.53,1.53,0,0,0,19.748,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H19.245V.809H18.029v1.5h-.8v1.04Zm3.945,0V5.462A1.53,1.53,0,0,0,23.693,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353H24.6V2.313H23.19V.809H21.975v1.5h-.8v1.04ZM27.692,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937H29.86A3.4,3.4,0,0,0,29.9,4.5a2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,27.692,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM30.988,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H30.988Zm5.171,0V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056A1.745,1.745,0,0,0,37.57,2.215a1.787,1.787,0,0,0-1.445.64L36.1,2.313H34.909V7Zm6.68-5.088,1.108.527a1.292,1.292,0,0,1,1.187-.981.92.92,0,0,1,1.006.962c0,.542-.483.952-1.27,1.528-.806.591-1.885,1.392-1.885,2.5V7h4.6V5.848H44.519a4.36,4.36,0,0,1,1.055-.928c.9-.654,1.924-1.323,1.924-2.515A2.184,2.184,0,0,0,45.119.271,2.457,2.457,0,0,0,42.839,1.912Z" transform="translate(303.5 2284.603)" fill="#c7c9c7"/>
+    <path id="Path_3727" data-name="Path 3727" d="M7.6,7V4.72H9.182a2.166,2.166,0,0,0,2.373-2.163A2.155,2.155,0,0,0,9.182.369h-2.9V7Zm0-5.483H9.1a1,1,0,0,1,1.1,1.045A1,1,0,0,1,9.1,3.577H7.6ZM13.913,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S12.849,7.1,13.913,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S13.713,4.993,14.284,4.993Zm3.687-1.641V5.462A1.53,1.53,0,0,0,19.694,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353H20.6V2.313H19.191V.809H17.976v1.5h-.8v1.04Zm3.945,0V5.462A1.53,1.53,0,0,0,23.64,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H23.137V.809H21.921v1.5h-.8v1.04ZM27.639,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532A2.164,2.164,0,0,0,27.58,2.215a2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,27.639,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM30.935,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107L34,2.322a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H30.935Zm5.171,0V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H34.855V7Zm6.689-5.156,1.064.581a1.418,1.418,0,0,1,1.265-.967c.562,0,.942.322.942.786a.89.89,0,0,1-.972.889h-.967v1.03h.967c.664,0,1.108.342,1.108.9a.91.91,0,0,1-1.006.85A1.441,1.441,0,0,1,43.864,4.9L42.8,5.481A2.534,2.534,0,0,0,45.217,7.1a2.133,2.133,0,0,0,2.339-2A1.641,1.641,0,0,0,46.5,3.611a1.636,1.636,0,0,0,.923-1.4,2.07,2.07,0,0,0-2.3-1.938A2.487,2.487,0,0,0,42.795,1.844Z" transform="translate(303.5 2423.359)" fill="#c7c9c7"/>
+    <g id="Group_5764" data-name="Group 5764" transform="translate(264.089 1461.542)">
+      <g id="Group_5368" data-name="Group 5368" transform="translate(54.663 8.858)" clip-path="url(#clip-path-34)">
+        <g id="Group_5367" data-name="Group 5367" transform="translate(-417.687 -8.857)">
+          <path id="Path_3441" data-name="Path 3441" d="M-232.2-8.863H243.625V661.528H-232.2Z" transform="translate(232.198 8.863)" fill="url(#linear-gradient-17)"/>
+        </g>
+      </g>
+      <g id="Group_5762" data-name="Group 5762" transform="translate(0 0)">
+        <g id="Group_5370" data-name="Group 5370" transform="translate(30.953)" clip-path="url(#clip-path-35)">
+          <g id="Group_5369" data-name="Group 5369" transform="translate(12.663 12.664)">
+            <path id="Path_3443" data-name="Path 3443" d="M0,7.669V22.635m4.605-2.3H0V9.971H4.605Zm0-9.21,8.059-5.756,6.908,2.3L18.42,11.123m-4.605,0,8.059,1.151,8.059-6.908,2.3,2.3L21.874,19.181,4.605,18.03M18.42-3.844h4.605m-2.3-2.3v4.605m5.756-2.3a5.757,5.757,0,0,1-5.756,5.756,5.757,5.757,0,0,1-5.756-5.756A5.757,5.757,0,0,1,20.723-9.6,5.757,5.757,0,0,1,26.479-3.844Z" transform="translate(0 9.6)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3744" data-name="Path 3744" d="M23.389,7h3.267a1.868,1.868,0,0,0,2.061-1.841A1.664,1.664,0,0,0,27.6,3.553a1.485,1.485,0,0,0,.889-1.372A1.862,1.862,0,0,0,26.441.369H23.389Zm2.827-5.5a.822.822,0,0,1,.913.825.786.786,0,0,1-.864.8H24.707V1.5Zm.225,2.661a.826.826,0,0,1,.874.894.8.8,0,0,1-.874.815H24.707V4.163ZM31.084.125h-1.25V7h1.25ZM34.663,7.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,34.663,7.1ZM33.4,4.656a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm7,2.441a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,40.4,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm4.5,0A2.279,2.279,0,0,0,45.913,7.1a1.955,1.955,0,0,0,1.523-.6l.024.5h1.23V.125h-1.23V2.879a1.857,1.857,0,0,0-1.548-.664A2.265,2.265,0,0,0,43.643,4.651Zm2.529-1.313a1.257,1.257,0,0,1,1.274,1.309,1.273,1.273,0,1,1-2.544,0A1.241,1.241,0,0,1,46.172,3.338ZM52.666,7H55.41a3.278,3.278,0,0,0,3.423-3.315A3.284,3.284,0,0,0,55.41.374H52.666Zm1.318-5.5h1.387a2.084,2.084,0,0,1,2.114,2.183,2.074,2.074,0,0,1-2.114,2.178H53.985ZM62.1,7.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,62.1,7.1ZM60.84,4.656a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0ZM66.929,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056A1.745,1.745,0,0,0,68.34,2.215a1.787,1.787,0,0,0-1.445.64l-.024-.542H65.679V7Zm6.079.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S71.944,7.1,73.008,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S72.808,4.993,73.379,4.993Zm3.687-1.641V5.462A1.53,1.53,0,0,0,78.789,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H78.286V.809H77.071v1.5h-.8v1.04ZM82.788,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,85,4.5,2.164,2.164,0,0,0,82.73,2.215a2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,82.788,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 63.965)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5754" data-name="Group 5754" transform="translate(273.882 1763.721)">
+      <g id="Group_5401" data-name="Group 5401" transform="translate(18.478 34.183)" clip-path="url(#clip-path-36)">
+        <g id="Group_5400" data-name="Group 5400" transform="translate(-392.294 -459.008)">
+          <path id="Path_3477" data-name="Path 3477" d="M-218.082-261.038H257.742V409.353H-218.082Z" transform="translate(218.082 261.038)" fill="url(#linear-gradient-18)"/>
+        </g>
+      </g>
+      <g id="Group_5403" data-name="Group 5403" transform="translate(15.024)" clip-path="url(#clip-path-37)">
+        <g id="Group_5402" data-name="Group 5402" transform="translate(12.663 12.663)">
+          <path id="Path_3479" data-name="Path 3479" d="M3.579,10.736h0a4.558,4.558,0,0,1,0-6.447L16.473-8.6,22.92-2.158,10.026,10.736A4.558,4.558,0,0,1,3.579,10.736ZM-4.48,18.8l5.641-5.641m.806-4.029L-.451,11.542l3.224,3.224,2.418-2.418M22.92-13.44,27.755-8.6m-2.418-2.418L19.7-5.381m-6.413-.034L15.7-3m-5.641.806L12.478.226m-5.641.806L9.254,3.449m-5.641.806L6.031,6.673" transform="translate(4.48 13.44)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Path_3735" data-name="Path 3735" d="M25.079.369H23.761V7h1.318ZM27.867,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H26.617V7Zm5.269-5.474a.688.688,0,0,0,.723-.718.72.72,0,1,0-1.44,0A.684.684,0,0,0,33.136,1.526ZM32.012,9.051a1.633,1.633,0,0,0,1.729-1.807V2.317H32.486V7.161c0,.586-.254.806-.679.806a2.1,2.1,0,0,1-.591-.1L31.1,8.875A2.149,2.149,0,0,0,32.012,9.051ZM37.291,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,39.5,4.5a2.164,2.164,0,0,0-2.271-2.285A2.34,2.34,0,0,0,34.82,4.651,2.369,2.369,0,0,0,37.291,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM42.711,7.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.251,1.251,0,0,1-1.255-1.294A1.259,1.259,0,0,1,42.76,3.353a1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,42.74,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,42.711,7.1Zm3.428-3.745V5.462A1.53,1.53,0,0,0,47.862,7.1a2.858,2.858,0,0,0,1.133-.234l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H47.359V.809H46.143v1.5h-.8v1.04ZM49.747.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM51.1,7V2.313H49.844V7Zm3.579.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,54.678,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0ZM59.508,7V4.378a.976.976,0,0,1,1.04-1,.923.923,0,0,1,.972,1V7h1.25V4.056a1.745,1.745,0,0,0-1.851-1.841,1.787,1.787,0,0,0-1.445.64l-.024-.542H58.258V7Z" transform="translate(0 68.98)" fill="#c7c9c7"/>
+    </g>
+    <g id="Group_5769" data-name="Group 5769" transform="translate(-241 -67.438)">
+      <g id="Group_5393" data-name="Group 5393" transform="translate(558.353 1652.064)" clip-path="url(#clip-path-38)">
+        <g id="Group_5392" data-name="Group 5392" transform="translate(-417.287 -164.299)">
+          <path id="Path_3467" data-name="Path 3467" d="M-231.976-97.06H243.848V573.331H-231.976Z" transform="translate(231.976 97.06)" fill="url(#linear-gradient-19)"/>
+        </g>
+      </g>
+      <g id="Group_5746" data-name="Group 5746" transform="translate(514.882 1629.703)">
+        <g id="Group_5395" data-name="Group 5395" transform="translate(15.024 0)" clip-path="url(#clip-path-39)">
+          <g id="Group_5394" data-name="Group 5394" transform="translate(12.663 15.349)">
+            <path id="Path_3469" data-name="Path 3469" d="M13.236,1.041a8.514,8.514,0,0,0-11.732,0L-.451,2.926-2.407,1.041a8.514,8.514,0,0,0-11.732,0,7.8,7.8,0,0,0,0,11.316l1.955,1.885L-.451,25.559,11.281,14.242l1.955-1.885A7.8,7.8,0,0,0,13.236,1.041Zm-29.8,12.239H-8.51l3.454-6.908L-.451,17.885l4.605-9.21,2.3,4.605h9.21" transform="translate(16.569 1.303)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3743" data-name="Path 3743" d="M20.54.369V7h1.318V4.188h3.232V7H26.4V.369H25.091V3.05H21.859V.369ZM30.072,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664A1.37,1.37,0,0,1,30.1,5.97a1.233,1.233,0,0,1-1.25-.937H32.24a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285A2.34,2.34,0,0,0,27.6,4.651,2.369,2.369,0,0,0,30.072,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM34.827,7.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S33.763,7.1,34.827,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S34.627,4.993,35.2,4.993ZM38.7,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H38.7Zm4.16-3.647V5.462A1.53,1.53,0,0,0,44.588,7.1a2.858,2.858,0,0,0,1.133-.234L45.6,5.823a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H44.085V.809H42.869v1.5h-.8v1.04ZM47.8,7l.024-.5a1.957,1.957,0,0,0,1.523.6,2.279,2.279,0,0,0,2.271-2.446,2.265,2.265,0,0,0-2.271-2.437,1.84,1.84,0,0,0-1.543.664V.125h-1.23V7Zm.02-2.354A1.257,1.257,0,0,1,49.09,3.338a1.241,1.241,0,0,1,1.27,1.309,1.273,1.273,0,1,1-2.544,0ZM54.827,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937H57a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,54.827,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM59.583,7.1a1.553,1.553,0,0,0,1.328-.62V7H62.1V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S58.519,7.1,59.583,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991C59.3,6.165,59,5.94,59,5.589S59.383,4.993,59.954,4.993Zm3.687-1.641V5.462A1.53,1.53,0,0,0,65.365,7.1,2.858,2.858,0,0,0,66.5,6.863l-.117-1.04a2.224,2.224,0,0,1-.8.161.626.626,0,0,1-.693-.7V3.353h1.377V2.313H64.862V.809H63.646v1.5h-.8v1.04Z" transform="translate(0 63.233)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5770" data-name="Group 5770" transform="translate(-241 -133.165)">
+      <g id="Group_5413" data-name="Group 5413" transform="translate(551.379 1839.063)" clip-path="url(#clip-path-40)">
+        <g id="Group_5412" data-name="Group 5412" transform="translate(-410.313 -326.604)">
+          <path id="Path_3490" data-name="Path 3490" d="M-228.1-183.484H247.725V486.907H-228.1Z" transform="translate(228.098 183.484)" fill="url(#linear-gradient-20)"/>
+        </g>
+      </g>
+      <g id="Group_5750" data-name="Group 5750" transform="translate(514.882 1793.521)">
+        <g id="Group_5414" data-name="Group 5414" transform="translate(15.024)" clip-path="url(#clip-path-41)">
+          <path id="Path_3492" data-name="Path 3492" d="M236.123-187.033h-6.908v-9.21h6.908Zm-1.151-9.21h-4.605V-204.3h4.605Zm-6.908,9.21h9.21m0,11.513a11.513,11.513,0,0,0,11.513-11.513,11.514,11.514,0,0,0-11.513-11.513h-2.3m-9.21,23.025h23.025m-20.723-4.605h18.42m-12.664,0v4.605m0-28.781h-2.3v-3.454h2.3Zm-3.454-3.454h4.605" transform="translate(-208.493 220.418)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <path id="Path_3736" data-name="Path 3736" d="M17.283,7H18.6V2.933l1.787,3.623h.854l1.787-3.623V7h1.318V.369h-1.4L20.819,4.783,18.68.369h-1.4ZM25.789.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM27.142,7V2.313H25.887V7Zm3.545.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.251,1.251,0,0,1-1.255-1.294,1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,30.716,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,30.687,7.1ZM33.875,7H35.13V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H33.875Zm5.894.1a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,39.769,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm4.478,1.353A2.41,2.41,0,0,0,45.076,7.1c1,0,1.851-.571,1.851-1.455,0-.928-.664-1.265-1.709-1.519-.581-.142-.879-.225-.879-.479,0-.234.278-.376.684-.376a1.2,1.2,0,0,1,1.05.581l.8-.659a2.153,2.153,0,0,0-1.88-.977c-1.021,0-1.831.566-1.831,1.445,0,.962.723,1.289,1.748,1.519.571.127.82.215.82.464s-.293.41-.669.41a1.524,1.524,0,0,1-1.235-.723ZM50.164,7.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.251,1.251,0,0,1-1.255-1.294,1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,50.194,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,50.164,7.1Zm5.308,0a2.415,2.415,0,0,0,2.5-2.441,2.506,2.506,0,0,0-5.01,0A2.418,2.418,0,0,0,55.472,7.1Zm-1.26-2.441a1.261,1.261,0,1,1,2.52,0,1.261,1.261,0,1,1-2.52,0Zm6.089,4.3V6.507a1.97,1.97,0,0,0,1.523.591,2.258,2.258,0,0,0,2.271-2.422,2.286,2.286,0,0,0-2.271-2.461,1.84,1.84,0,0,0-1.543.664l-.024-.566H59.051V8.953Zm0-4.282a1.273,1.273,0,1,1,2.544,0,1.272,1.272,0,1,1-2.544,0ZM67.308,7.1a2.418,2.418,0,0,0,2.085-1.128L68.5,5.311a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389A3.4,3.4,0,0,0,69.52,4.5a2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,67.308,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923Z" transform="translate(0 68.507)" fill="#c7c9c7"/>
+      </g>
+    </g>
+    <g id="Group_5771" data-name="Group 5771" transform="translate(-241 -264.078)">
+      <g id="Group_5424" data-name="Group 5424" transform="translate(536.812 2159.876)" clip-path="url(#clip-path-42)">
+        <g id="Group_5423" data-name="Group 5423" transform="translate(-395.746 -595.705)">
+          <path id="Path_3502" data-name="Path 3502" d="M-220-336.585H255.822V333.806H-220Z" transform="translate(220.002 336.585)" fill="url(#linear-gradient-21)"/>
+        </g>
+      </g>
+      <g id="Group_5755" data-name="Group 5755" transform="translate(514.882 2132.189)">
+        <g id="Group_5426" data-name="Group 5426" transform="translate(15.024)" clip-path="url(#clip-path-43)">
+          <g id="Group_5425" data-name="Group 5425" transform="translate(12.663 16.117)">
+            <path id="Path_3504" data-name="Path 3504" d="M7.158,6.646h8.059M-6.657-8.32H-.9V.89M18.67,13.554h4.605M-.9-4.866H15.216V10.1M-.9-1.412H15.216M7.158,8.949A8.059,8.059,0,0,1-.9,17.008,8.059,8.059,0,0,1-8.96,8.949,8.059,8.059,0,0,1-.9.89,8.059,8.059,0,0,1,7.158,8.949Zm-6.908,0A1.152,1.152,0,0,1-.9,10.1,1.152,1.152,0,0,1-2.052,8.949,1.152,1.152,0,0,1-.9,7.8,1.152,1.152,0,0,1,.25,8.949Zm18.42,4.605A3.454,3.454,0,1,1,15.216,10.1,3.455,3.455,0,0,1,18.67,13.554Zm-3.454,0h0" transform="translate(8.96 8.32)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Path_3728" data-name="Path 3728" d="M17.056.369,18.873,7h1.846l1.211-4.272L23.145,7h1.846L26.807.369H25.484l-1.47,5.317L22.525.472H21.339L19.849,5.687,18.38.369ZM28.887,7V4.378a.974.974,0,0,1,1.035-1,.917.917,0,0,1,.957,1V7h1.255V4.056a1.743,1.743,0,0,0-1.841-1.841,1.812,1.812,0,0,0-1.406.6V.125H27.633V7Zm6.733.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285A2.34,2.34,0,0,0,33.15,4.651,2.369,2.369,0,0,0,35.621,7.1Zm-1.2-2.91a1.1,1.1,0,0,1,1.157-.923,1.053,1.053,0,0,1,1.089.923ZM41.046,7.1a2.418,2.418,0,0,0,2.085-1.128l-.889-.664a1.37,1.37,0,0,1-1.167.659,1.233,1.233,0,0,1-1.25-.937h3.389a3.4,3.4,0,0,0,.044-.532,2.164,2.164,0,0,0-2.271-2.285,2.34,2.34,0,0,0-2.412,2.437A2.369,2.369,0,0,0,41.046,7.1Zm-1.2-2.91A1.1,1.1,0,0,1,41,3.27a1.053,1.053,0,0,1,1.089.923ZM45.592.125h-1.25V7h1.25ZM49.136,7.1a2.42,2.42,0,0,0,2.183-1.309l-.9-.635a1.372,1.372,0,0,1-1.25.811,1.251,1.251,0,0,1-1.255-1.294,1.259,1.259,0,0,1,1.274-1.318,1.353,1.353,0,0,1,1.206.791l.952-.605A2.4,2.4,0,0,0,49.166,2.2a2.453,2.453,0,0,0-2.5,2.446A2.427,2.427,0,0,0,49.136,7.1ZM53.58,7V4.378a.974.974,0,0,1,1.035-1,.917.917,0,0,1,.957,1V7h1.255V4.056a1.743,1.743,0,0,0-1.841-1.841,1.812,1.812,0,0,0-1.406.6V.125H52.325V7Zm6.064.1a1.553,1.553,0,0,0,1.328-.62V7h1.191V4.114c0-1.172-.854-1.9-2.227-1.9a2.566,2.566,0,0,0-2,.977l.718.718a1.66,1.66,0,0,1,1.24-.591.925.925,0,0,1,1.016.894v.107a3.07,3.07,0,0,0-.986-.161c-1.245,0-2.056.615-2.056,1.5S58.58,7.1,59.644,7.1Zm.371-2.1a2.184,2.184,0,0,1,.9.181,1,1,0,0,1-1.074.991c-.479,0-.781-.225-.781-.576S59.444,4.993,60.015,4.993ZM63.424.809a.72.72,0,0,0,1.44,0,.72.72,0,1,0-1.44,0ZM64.776,7V2.313H63.521V7ZM66.2,7h1.255V4.6c0-.967.581-1.265,1.133-1.265a1.756,1.756,0,0,1,.581.107l.1-1.118a1.9,1.9,0,0,0-.61-.107,1.3,1.3,0,0,0-1.221.737l-.024-.64H66.2Z" transform="translate(0 70.719)" fill="#c7c9c7"/>
+      </g>
+    </g>
+  </g>
+</svg>

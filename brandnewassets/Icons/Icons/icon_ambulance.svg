@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3430" data-name="Path 3430" d="M19.582-348.5H44.151V-361.16H19.582Z" transform="translate(-19.582 361.16)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.074" y1="0.04" x2="0.126" y2="0.04" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3432" data-name="Path 3432" d="M17.016-315.117H74.579V-372.68H17.016Z" transform="translate(-17.016 372.68)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5759" data-name="Group 5759" transform="translate(-14.39 0)">
+    <g id="Group_5356" data-name="Group 5356" transform="translate(19.006 20.723)" clip-path="url(#clip-path)">
+      <g id="Group_5355" data-name="Group 5355" transform="translate(-35.225 -20.723)">
+        <path id="Path_3429" data-name="Path 3429" d="M-19.582-15.04H456.241V655.351H-19.582Z" transform="translate(19.582 15.04)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_5358" data-name="Group 5358" transform="translate(14.39 0)" clip-path="url(#clip-path-2)">
+      <g id="Group_5357" data-name="Group 5357" transform="translate(12.665 16.118)">
+        <path id="Path_3431" data-name="Path 3431" d="M2.045,9.2H-2.56V-8.066H23.919l5.756,9.21V9.2H25.07M18.163-8.066v9.21H29.675M4.348-1.159H8.953m-2.3-2.3V1.144M8.953,9.2A3.454,3.454,0,1,1,5.5,5.749,3.455,3.455,0,0,1,8.953,9.2Zm16.118,0a3.454,3.454,0,1,1-3.454-3.454A3.455,3.455,0,0,1,25.07,9.2ZM8.953,9.2h9.21M14.709-8.066H10.1V-11.52h4.605Z" transform="translate(2.56 11.52)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

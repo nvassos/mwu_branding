@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3438" data-name="Path 3438" d="M161.193-352.955a11.156,11.156,0,0,0,0,15.779h0a11.159,11.159,0,0,0,15.779,0h0l.487-.489a11.156,11.156,0,0,0,0-15.779h0l-7.89-7.89Z" transform="translate(-157.924 361.334)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.597" y1="0.051" x2="0.645" y2="0.051" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3440" data-name="Path 3440" d="M151.683-315.117h57.563V-372.68H151.683Z" transform="translate(-151.683 372.68)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5761" data-name="Group 5761" transform="translate(-15.979 0)">
+    <g id="Group_5364" data-name="Group 5364" transform="translate(23.307 20.41)" clip-path="url(#clip-path)">
+      <g id="Group_5363" data-name="Group 5363" transform="translate(-284.079 -20.41)">
+        <path id="Path_3437" data-name="Path 3437" d="M-157.924-18.969H317.9V651.422H-157.924Z" transform="translate(157.924 18.969)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_5366" data-name="Group 5366" transform="translate(15.979 0)" clip-path="url(#clip-path-2)">
+      <g id="Group_5365" data-name="Group 5365" transform="translate(14.292 12.664)">
+        <path id="Path_3439" data-name="Path 3439" d="M8.7,6.468.058-4.643-8.585,6.468a10.949,10.949,0,0,0,.9,14.463h0a10.947,10.947,0,0,0,15.483,0h0A10.947,10.947,0,0,0,8.7,6.468ZM-6.79,15.435a7.343,7.343,0,0,0,1.847,3.087m15.569-8.213A7.007,7.007,0,0,0,16.613-.986L11.083-8.1,5.552-.986A7,7,0,0,0,4.462,1.02m-6.618,7H2.449m-2.3-2.3v4.605" transform="translate(10.891 8.097)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

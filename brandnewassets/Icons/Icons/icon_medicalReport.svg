@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.561" height="57.563" viewBox="0 0 57.561 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3488" data-name="Path 3488" d="M162.883-183.261h27.056v-19.375H162.883Z" transform="translate(-162.883 202.636)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.616" y1="0.471" x2="0.673" y2="0.471" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3493" data-name="Path 3493" d="M216.162-157.232h57.561v-57.563H216.162Z" transform="translate(-216.162 214.795)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7191" data-name="Group 7191" transform="translate(-690.9 -1578.658)">
+    <g id="Group_5749" data-name="Group 5749" transform="translate(672.963 1593.457)">
+      <g id="Group_5411" data-name="Group 5411" transform="translate(36.052 9.716)" clip-path="url(#clip-path)">
+        <g id="Group_5410" data-name="Group 5410" transform="translate(-293 -305.882)">
+          <path id="Path_3487" data-name="Path 3487" d="M-162.883-175.43H312.94V494.961H-162.883Z" transform="translate(162.883 175.43)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <path id="Path_3489" data-name="Path 3489" d="M180.214-200.848H166.4v-4.605h13.815Zm-19.571,25.328h25.328v-29.933H160.643Zm0-29.933M171-193.941h4.605m-2.3-2.3v4.605m-5.756,4.605h11.513m-9.21,4.6h6.908m-1.151-23.025H171v-2.3h4.605Z" transform="translate(-130.316 207.756)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

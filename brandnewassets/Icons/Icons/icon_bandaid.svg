@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.563" height="57.563" viewBox="0 0 57.563 57.563">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3434" data-name="Path 3434" d="M95.935-349.7l11.4,11.4,11.4-11.4-11.4-11.4Z" transform="translate(-95.935 361.095)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.363" y1="0.048" x2="0.411" y2="0.048" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3436" data-name="Path 3436" d="M84.35-315.117h57.563V-372.68H84.35Z" transform="translate(-84.35 372.68)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5763" data-name="Group 5763" transform="translate(-11.8 0)">
+    <g id="Group_5360" data-name="Group 5360" transform="translate(35.624 20.839)" clip-path="url(#clip-path)">
+      <g id="Group_5359" data-name="Group 5359" transform="translate(-172.572 -20.84)">
+        <path id="Path_3433" data-name="Path 3433" d="M-95.934-17.92H379.889V652.471H-95.934Z" transform="translate(95.934 17.92)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_5760" data-name="Group 5760" transform="translate(0 0)">
+      <g id="Group_5362" data-name="Group 5362" transform="translate(11.8)" clip-path="url(#clip-path-2)">
+        <g id="Group_5361" data-name="Group 5361" transform="translate(12.664 12.664)">
+          <path id="Path_3435" data-name="Path 3435" d="M8.824.493l-18.76,18.76a3.791,3.791,0,0,0,0,5.359l5.9,5.9a3.79,3.79,0,0,0,5.361,0l18.758-18.76a3.79,3.79,0,0,0,0-5.361L14.184.493A3.79,3.79,0,0,0,8.824.493ZM5.071,26.756-6.184,15.5,5.071,4.245,16.328,15.5ZM2.769,13.2H6.222M2.769,17.8H8.525M-5.38,22.736h0m3.216,3.216h0M12.308,5.05h0m3.216,3.215h0" transform="translate(11.046 0.617)" fill="none" stroke="#2b619f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

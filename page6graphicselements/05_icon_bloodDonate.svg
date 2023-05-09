@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.456" height="38.457" viewBox="0 0 38.456 38.457">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        stroke: #2b619f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.28px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_3442" data-name="Path 3442" class="cls-1" d="M232.2-363.023a4.735,4.735,0,0,0,4.734,4.735h0a4.735,4.735,0,0,0,4.735-4.735h0a4.734,4.734,0,0,0-4.735-4.733h0a4.734,4.734,0,0,0-4.734,4.733" transform="translate(-232.198 367.756)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.878" y1="0.024" x2="0.908" y2="0.024" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_3444" data-name="Path 3444" class="cls-1" d="M219.017-334.223h38.456V-372.68H219.017Z" transform="translate(-219.017 372.68)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5906" data-name="Group 5906" transform="translate(-20.679)">
+    <g id="Group_5368" data-name="Group 5368" class="cls-2" transform="translate(36.52 5.918)">
+      <g id="Group_5367" data-name="Group 5367" transform="translate(-279.054 -5.918)">
+        <path id="Path_3441" data-name="Path 3441" class="cls-3" d="M-232.2-8.863H85.7V439.021H-232.2Z" transform="translate(232.198 8.863)"/>
+      </g>
+    </g>
+    <g id="Group_5370" data-name="Group 5370" class="cls-4" transform="translate(20.679)">
+      <g id="Group_5369" data-name="Group 5369" transform="translate(8.46 8.461)">
+        <path id="Path_3443" data-name="Path 3443" class="cls-5" d="M0,1.937v10M3.077,10.4H0V3.475H3.077Zm0-6.153L8.461.4l4.615,1.538-.769,2.307m-3.077,0,5.384.769L20,.4l1.538,1.538L14.614,9.629,3.077,8.86m9.23-14.614h3.077M13.845-7.293v3.077M17.69-5.754a3.846,3.846,0,0,1-3.846,3.846A3.846,3.846,0,0,1,10-5.754,3.846,3.846,0,0,1,13.845-9.6,3.846,3.846,0,0,1,17.69-5.754Z" transform="translate(0 9.6)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.773" height="26.34" viewBox="0 0 19.773 26.34">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        stroke: #2b619f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.28px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_3475" data-name="Path 3475" class="cls-1" d="M163.2-115.221h15.383v-16.153H163.2Z" transform="translate(-163.203 131.374)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.617" y1="0.666" x2="0.665" y2="0.666" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a88762"/>
+      <stop offset="0.1" stop-color="#af8f6b"/>
+      <stop offset="0.2" stop-color="#b69774"/>
+      <stop offset="0.3" stop-color="#bd9f7c"/>
+      <stop offset="0.4" stop-color="#c4a785"/>
+      <stop offset="0.5" stop-color="#caaf8e"/>
+      <stop offset="0.6" stop-color="#c4a785"/>
+      <stop offset="0.7" stop-color="#bd9f7c"/>
+      <stop offset="0.8" stop-color="#b69774"/>
+      <stop offset="0.9" stop-color="#af8f6b"/>
+      <stop offset="1" stop-color="#a88762"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5916" data-name="Group 5916" transform="translate(-19.621)">
+    <g id="Group_5399" data-name="Group 5399" class="cls-2" transform="translate(24.011)">
+      <g id="Group_5398" data-name="Group 5398" transform="translate(-196.136 -290)">
+        <path id="Path_3474" data-name="Path 3474" class="cls-3" d="M-163.2-248.027H154.692V199.857H-163.2Z" transform="translate(163.203 248.027)"/>
+      </g>
+    </g>
+    <path id="Path_3476" data-name="Path 3476" class="cls-4" d="M176.026-107.277H162.181v-21.536h13.845Zm-15.383,0h16.921m-6.153,0H166.8v-6.153h4.615ZM167.565-124.2h3.077m-1.538-1.538v3.077m-3.846,2.307H166.8m4.615,0h1.538m-7.691,3.077H166.8m4.615,0h1.538" transform="translate(-140.382 132.977)"/>
+  </g>
+</svg>

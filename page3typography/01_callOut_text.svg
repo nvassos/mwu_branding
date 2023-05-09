@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169.956" height="81.544" viewBox="0 0 169.956 81.544">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3f3f4;
+      }
+
+      .cls-2 {
+        fill: #0d55a0;
+        font-size: 12px;
+        font-family: Mundial-DemiBold, Mundial;
+        font-weight: 300;
+        letter-spacing: -0.005em;
+      }
+
+      .cls-3 {
+        fill: #42454a;
+        font-size: 8px;
+        font-family: Mundial-Regular, Mundial;
+      }
+    </style>
+  </defs>
+  <g id="Group_5901" data-name="Group 5901" transform="translate(-678.001 -2646.799)">
+    <g id="Group_5077" data-name="Group 5077" transform="translate(678 2728.343)">
+      <path id="Path_3221" data-name="Path 3221" class="cls-1" d="M8.277,0h161.68V-81.544H8.277Z"/>
+      <g id="Group">
+        <text id="Lorem_ipsum_dolor_amit" data-name="Lorem ipsum dolor amit" class="cls-2" transform="translate(20.678 -59.596)"><tspan x="0" y="0">Lorem ipsum dolor amit</tspan></text>
+        <text id="_." data-name="." class="cls-2" transform="translate(153.381 -59.596)"><tspan x="0" y="0">.</tspan></text>
+      </g>
+      <g id="Group-2" data-name="Group">
+        <text id="Sed_ut_perspiciatis_unde_omnis_" data-name="Sed ut perspiciatis unde omnis " class="cls-3" transform="translate(20.678 -43.96)"><tspan x="0" y="0">Sed ut perspiciatis unde omnis </tspan></text>
+        <text id="iste_natus_error_sit_voluptatem_" data-name="iste natus error sit voluptatem " class="cls-3" transform="translate(20.678 -33.96)"><tspan x="0" y="0">iste natus error sit voluptatem </tspan></text>
+        <text id="accusantium_doloremque_" data-name="accusantium doloremque " class="cls-3" transform="translate(20.678 -23.96)"><tspan x="0" y="0">accusantium doloremque </tspan></text>
+        <text id="laudantium_" data-name="laudantium," class="cls-3" transform="translate(20.678 -13.96)"><tspan x="0" y="0">laudantium,</tspan></text>
+        <text id="_totam_rem_aperiam_" data-name=" totam rem aperiam," class="cls-3" transform="translate(63.893 -13.96)"><tspan x="0" y="0" xml:space="preserve"> totam rem aperiam,</tspan></text>
+      </g>
+      <g id="Group_5076" data-name="Group 5076" transform="translate(0.001 -63.722)">
+        <path id="Path_3222" data-name="Path 3222" class="cls-1" d="M0,0,8.839,8.839,17.677,0,8.839-8.839Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
